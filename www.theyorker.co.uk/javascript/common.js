@@ -91,7 +91,9 @@ function jumpToReporterPage() {
 
 function fixReporterDropdown() {
 	var findArticlesButton = document.getElementById('archive_search');
-	findArticlesButton.onclick = jumpToReporterPage;
+	if (findArticlesButton) {
+		findArticlesButton.onclick = jumpToReporterPage;
+	}
 }
 
 onLoadFunctions.push(fixReporterDropdown);
