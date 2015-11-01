@@ -1,0 +1,4 @@
+#exclude full size photos and videos due to GitHub 1GB repo limit
+www.theyorker.co.uk/photos/full
+static.theyorker.co.uk/media/videocasts/ForbiddenPlanet.flv
+static.theyorker.co.uk/media/videocasts/woodstockvideo.flv
