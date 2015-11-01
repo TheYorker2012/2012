@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+	<rss version="2.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:atom="http://www.w3.org/2005/Atom"
+		xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+	<title>The Yorker - Artscast</title>
+	<link>http://www.theyorker.co.uk/feeds/podcasts</link>
+	<atom:link href="http://www.theyorker.co.uk/feeds/podcasts" rel="self" type="application/rss+xml" />
+	<description>The Yorker's Weekly Artscasts.</description>
+	<itunes:summary>Yorker Arts</itunes:summary><itunes:category text="Arts" /><itunes:category text="Music" /><language>en-gb</language>
+	<copyright>Copyright 2006-2015, The Yorker</copyright>
+	<category>Arts</category>
+	<pubDate>Tue, 04 Mar 2008 07:00:00 +0000</pubDate>
+	<lastBuildDate>Wed, 23 Sep 2015 20:02:11 +0100</lastBuildDate>
+	<docs>http://www.rssboard.org/rss-specification</docs>
+	<itunes:image href="http://www.theyorker.co.uk/images/prototype/news/rss-itunes.jpg"/>
+	<image>
+		<url>http://www.theyorker.co.uk/images/prototype/news/rss-uninews.jpg</url>
+		<width>126</width>
+		<height>126</height>
+		<title>The Yorker - Artscast</title>
+		<link>http://www.theyorker.co.uk/feeds/podcasts</link>
+	</image>
+	<managingEditor>editor@theyorker.co.uk (Editor)</managingEditor>
+	<webMaster>webmaster@theyorker.co.uk (Webmaster)</webMaster>
+		<itunes:author>The Yorker Arts Team</itunes:author>
+		<itunes:owner>
+			<itunes:name>The Yorker - Artscast</itunes:name>
+			<itunes:email>podcasts@theyorker.co.uk</itunes:email>
+		</itunes:owner><item>
+		<title>Yorker Artscast - Tuesday 4th March 2008</title>
+		<description><![CDATA[One Night Only, Fusion backstage, Ear to the Ground and Win Concert Tickets.]]></description>
+		<pubDate>Tue, 04 Mar 2008 07:00:00 +0000</pubDate>
+		<itunes:author>The Yorker Arts Team</itunes:author>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:subtitle>One Night Only, Fusion backstage, Ear to the Ground and Win Concert Tickets.</itunes:subtitle>
+		<itunes:summary>One Night Only, Fusion backstage, Ear to the Ground and Win Concert Tickets.</itunes:summary>
+		<enclosure url="http://static.theyorker.co.uk/media/podcasts/YorkerArtscastTuesday4thMarch2008.mp3" length="24230348" type="audio/mpeg" />
+		<guid isPermaLink="true">http://static.theyorker.co.uk/media/podcasts/YorkerArtscastTuesday4thMarch2008.mp3</guid>
+		<link>http://static.theyorker.co.uk/media/podcasts/YorkerArtscastTuesday4thMarch2008.mp3</link>
+		</item><item>
+		<title>Yorker Artscast - Tuesday 19th February 2008</title>
+		<description><![CDATA[Battle of the Bands Final, Chat with Rich Croker, Fusion and Ear to the Ground.]]></description>
+		<pubDate>Tue, 19 Feb 2008 18:18:00 +0000</pubDate>
+		<itunes:author>The Yorker Arts Team</itunes:author>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:subtitle>Battle of the Bands Final, Chat with Rich Croker, Fusion and Ear to the Ground.</itunes:subtitle>
+		<itunes:summary>Battle of the Bands Final, Chat with Rich Croker, Fusion and Ear to the Ground.</itunes:summary>
+		<enclosure url="http://static.theyorker.co.uk/media/podcasts/YorkerArtscastTuesday19thFebruary2008.mp3" length="24683834" type="audio/mpeg" />
+		<guid isPermaLink="true">http://static.theyorker.co.uk/media/podcasts/YorkerArtscastTuesday19thFebruary2008.mp3</guid>
+		<link>http://static.theyorker.co.uk/media/podcasts/YorkerArtscastTuesday19thFebruary2008.mp3</link>
+		</item><item>
+		<title>Yorker Artscast - Monday 4th February 2008</title>
+		<description><![CDATA[Battle of the Bands, YUSU in the pub, Sweet Charity and Ear to the Ground.]]></description>
+		<pubDate>Mon, 04 Feb 2008 20:47:00 +0000</pubDate>
+		<itunes:author>The Yorker Arts Team</itunes:author>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:subtitle>Battle of the Bands, YUSU in the pub, Sweet Charity and Ear to the Ground.</itunes:subtitle>
+		<itunes:summary>Battle of the Bands, YUSU in the pub, Sweet Charity and Ear to the Ground.</itunes:summary>
+		<enclosure url="http://static.theyorker.co.uk/media/podcasts/YorkerArtscastMonday4thFebruary2008Final2.mp3" length="16663615" type="audio/mpeg" />
+		<guid isPermaLink="true">http://static.theyorker.co.uk/media/podcasts/YorkerArtscastMonday4thFebruary2008Final2.mp3</guid>
+		<link>http://static.theyorker.co.uk/media/podcasts/YorkerArtscastMonday4thFebruary2008Final2.mp3</link>
+		</item><item>
+		<title>Yorker Artscast - Monday 21st January 2008</title>
+		<description><![CDATA[Metamorphosis, Ear to the Ground and what's coming up this term.]]></description>
+		<pubDate>Mon, 21 Jan 2008 20:01:00 +0000</pubDate>
+		<itunes:author>The Yorker Arts Team</itunes:author>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:subtitle>Metamorphosis, Ear to the Ground and what's coming up this term.</itunes:subtitle>
+		<itunes:summary>Metamorphosis, Ear to the Ground and what's coming up this term.</itunes:summary>
+		<enclosure url="http://static.theyorker.co.uk/media/podcasts/YorkerArtscastMonday21stJanuary2008.mp3" length="20153574" type="audio/mpeg" />
+		<guid isPermaLink="true">http://static.theyorker.co.uk/media/podcasts/YorkerArtscastMonday21stJanuary2008.mp3</guid>
+		<link>http://static.theyorker.co.uk/media/podcasts/YorkerArtscastMonday21stJanuary2008.mp3</link>
+		</item><item>
+		<title>Yorker Artscast - Friday 14th December 2007</title>
+		<description><![CDATA[Christmas Special.]]></description>
+		<pubDate>Fri, 14 Dec 2007 20:01:00 +0000</pubDate>
+		<itunes:author>The Yorker Arts Team</itunes:author>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:subtitle>Christmas Special.</itunes:subtitle>
+		<itunes:summary>Christmas Special.</itunes:summary>
+		<enclosure url="http://static.theyorker.co.uk/media/podcasts/YorkerArtscast14thDecember2007.mp3" length="16972487" type="audio/mpeg" />
+		<guid isPermaLink="true">http://static.theyorker.co.uk/media/podcasts/YorkerArtscast14thDecember2007.mp3</guid>
+		<link>http://static.theyorker.co.uk/media/podcasts/YorkerArtscast14thDecember2007.mp3</link>
+		</item><item>
+		<title>Yorker Artscast - Monday 3rd December 2007</title>
+		<description><![CDATA[Asobi Seksu, Generation Game and Ear to the Ground.]]></description>
+		<pubDate>Mon, 03 Dec 2007 06:00:00 +0000</pubDate>
+		<itunes:author>The Yorker Arts Team</itunes:author>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:subtitle>Asobi Seksu, Generation Game and Ear to the Ground.</itunes:subtitle>
+		<itunes:summary>Asobi Seksu, Generation Game and Ear to the Ground.</itunes:summary>
+		<enclosure url="http://static.theyorker.co.uk/media/podcasts/YorkerArtscastEdition8Monday3rdDecember.mp3" length="29565179" type="audio/mpeg" />
+		<guid isPermaLink="true">http://static.theyorker.co.uk/media/podcasts/YorkerArtscastEdition8Monday3rdDecember.mp3</guid>
+		<link>http://static.theyorker.co.uk/media/podcasts/YorkerArtscastEdition8Monday3rdDecember.mp3</link>
+		</item><item>
+		<title>Yorker Artscast - Monday 26th November 2007</title>
+		<description><![CDATA[Fusion, Kate Nash and Ear to the Ground.]]></description>
+		<pubDate>Mon, 26 Nov 2007 00:39:00 +0000</pubDate>
+		<itunes:author>The Yorker Arts Team</itunes:author>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:subtitle>Fusion, Kate Nash and Ear to the Ground.</itunes:subtitle>
+		<itunes:summary>Fusion, Kate Nash and Ear to the Ground.</itunes:summary>
+		<enclosure url="http://static.theyorker.co.uk/media/podcasts/YorkerArtscastEdition7Monday26thNovember.mp3" length="24308089" type="audio/mpeg" />
+		<guid isPermaLink="true">http://static.theyorker.co.uk/media/podcasts/YorkerArtscastEdition7Monday26thNovember.mp3</guid>
+		<link>http://static.theyorker.co.uk/media/podcasts/YorkerArtscastEdition7Monday26thNovember.mp3</link>
+		</item><item>
+		<title>Yorker Artscast - Monday 19th November 2007</title>
+		<description><![CDATA[Pendulum, The Generation Game, and Ear to the Ground.]]></description>
+		<pubDate>Mon, 19 Nov 2007 03:54:00 +0000</pubDate>
+		<itunes:author>The Yorker Arts Team</itunes:author>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:subtitle>Pendulum, The Generation Game, and Ear to the Ground.</itunes:subtitle>
+		<itunes:summary>Pendulum, The Generation Game, and Ear to the Ground.</itunes:summary>
+		<enclosure url="http://static.theyorker.co.uk/media/podcasts/YorkerArtscastEdition6Monday19thNovember.mp3" length="21752268" type="audio/mpeg" />
+		<guid isPermaLink="true">http://static.theyorker.co.uk/media/podcasts/YorkerArtscastEdition6Monday19thNovember.mp3</guid>
+		<link>http://static.theyorker.co.uk/media/podcasts/YorkerArtscastEdition6Monday19thNovember.mp3</link>
+		</item><item>
+		<title>Yorker Artscast - Monday 12th November 2007</title>
+		<description><![CDATA[Second half of Simian Mobile Disco Interview, Toffs on a Tuesday and New Unsigned Music.]]></description>
+		<pubDate>Mon, 12 Nov 2007 01:37:00 +0000</pubDate>
+		<itunes:author>The Yorker Arts Team</itunes:author>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:subtitle>Second half of Simian Mobile Disco Interview, Toffs on a Tuesday and New Unsigned Music.</itunes:subtitle>
+		<itunes:summary>Second half of Simian Mobile Disco Interview, Toffs on a Tuesday and New Unsigned Music.</itunes:summary>
+		<enclosure url="http://static.theyorker.co.uk/media/podcasts/YorkerArtscast5thEdition12thNovember2007.mp3" length="24736915" type="audio/mpeg" />
+		<guid isPermaLink="true">http://static.theyorker.co.uk/media/podcasts/YorkerArtscast5thEdition12thNovember2007.mp3</guid>
+		<link>http://static.theyorker.co.uk/media/podcasts/YorkerArtscast5thEdition12thNovember2007.mp3</link>
+		</item><item>
+		<title>Yorker Artscast - Monday 5th November 2007</title>
+		<description><![CDATA[Simian Mobile Disco, Basement Bar, York Lesbian Arts Festival and the result of York University Musical Idol.]]></description>
+		<pubDate>Mon, 05 Nov 2007 05:00:00 +0000</pubDate>
+		<itunes:author>The Yorker Arts Team</itunes:author>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:subtitle>Simian Mobile Disco, Basement Bar, York Lesbian Arts Festival and the result of York University Musical Idol.</itunes:subtitle>
+		<itunes:summary>Simian Mobile Disco, Basement Bar, York Lesbian Arts Festival and the result of York University Musical Idol.</itunes:summary>
+		<enclosure url="http://static.theyorker.co.uk/media/podcasts/YorkerArtscast4thEdition5thNovember2007.mp3" length="32890463" type="audio/mpeg" />
+		<guid isPermaLink="true">http://static.theyorker.co.uk/media/podcasts/YorkerArtscast4thEdition5thNovember2007.mp3</guid>
+		<link>http://static.theyorker.co.uk/media/podcasts/YorkerArtscast4thEdition5thNovember2007.mp3</link>
+		</item><item>
+		<title>Yorker Artscast - Monday 29th October 2007</title>
+		<description><![CDATA[This week we have a chat to Nexus, return to the Musical Market Place and Ben auditions in York Uni musical idol.]]></description>
+		<pubDate>Mon, 29 Oct 2007 04:00:00 +0000</pubDate>
+		<itunes:author>The Yorker Arts Team</itunes:author>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:subtitle>This week we have a chat to Nexus, return to the Musical Market Place and Ben auditions in York Uni musical idol.</itunes:subtitle>
+		<itunes:summary>This week we have a chat to Nexus, return to the Musical Market Place and Ben auditions in York Uni musical idol.</itunes:summary>
+		<enclosure url="http://static.theyorker.co.uk/media/podcasts/YorkerArtscast3rdEditionMonday29thOctober2007.mp3" length="15275573" type="audio/mpeg" />
+		<guid isPermaLink="true">http://static.theyorker.co.uk/media/podcasts/YorkerArtscast3rdEditionMonday29thOctober2007.mp3</guid>
+		<link>http://static.theyorker.co.uk/media/podcasts/YorkerArtscast3rdEditionMonday29thOctober2007.mp3</link>
+		</item><item>
+		<title>Yorker Artscast - Monday 22nd October 2007</title>
+		<description><![CDATA[The second edition of The Yorker's Artscast.]]></description>
+		<pubDate>Mon, 22 Oct 2007 08:19:36 +0100</pubDate>
+		<itunes:author>The Yorker Arts Team</itunes:author>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:subtitle>The second edition of The Yorker's Artscast.</itunes:subtitle>
+		<itunes:summary>The second edition of The Yorker's Artscast.</itunes:summary>
+		<enclosure url="http://static.theyorker.co.uk/media/podcasts/YorkerArtscast2ndEditionMonday22ndOctober.mp3" length="23323377" type="audio/mpeg" />
+		<guid isPermaLink="true">http://static.theyorker.co.uk/media/podcasts/YorkerArtscast2ndEditionMonday22ndOctober.mp3</guid>
+		<link>http://static.theyorker.co.uk/media/podcasts/YorkerArtscast2ndEditionMonday22ndOctober.mp3</link>
+		</item><item>
+		<title>Yorker Artscast - Monday 15th October 2007</title>
+		<description><![CDATA[The first edition of The Yorker's Artscast.]]></description>
+		<pubDate>Mon, 15 Oct 2007 08:16:29 +0100</pubDate>
+		<itunes:author>The Yorker Arts Team</itunes:author>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:subtitle>The first edition of The Yorker's Artscast.</itunes:subtitle>
+		<itunes:summary>The first edition of The Yorker's Artscast.</itunes:summary>
+		<enclosure url="http://static.theyorker.co.uk/media/podcasts/YorkerArtscast1stEditionMonday15thOctober2007.mp3" length="19368229" type="audio/mpeg" />
+		<guid isPermaLink="true">http://static.theyorker.co.uk/media/podcasts/YorkerArtscast1stEditionMonday15thOctober2007.mp3</guid>
+		<link>http://static.theyorker.co.uk/media/podcasts/YorkerArtscast1stEditionMonday15thOctober2007.mp3</link>
+		</item><item>
+		<title>Yorker Artscast - Teaser</title>
+		<description><![CDATA[A teaser clip of what is to come.]]></description>
+		<pubDate>Mon, 08 Oct 2007 08:07:43 +0100</pubDate>
+		<itunes:author>The Yorker Arts Team</itunes:author>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:subtitle>A teaser clip of what is to come.</itunes:subtitle>
+		<itunes:summary>A teaser clip of what is to come.</itunes:summary>
+		<enclosure url="http://static.theyorker.co.uk/media/podcasts/YorkerArtscastDemoMonday8thOctober2007.mp3" length="2514861" type="audio/mpeg" />
+		<guid isPermaLink="true">http://static.theyorker.co.uk/media/podcasts/YorkerArtscastDemoMonday8thOctober2007.mp3</guid>
+		<link>http://static.theyorker.co.uk/media/podcasts/YorkerArtscastDemoMonday8thOctober2007.mp3</link>
+		</item></channel></rss>

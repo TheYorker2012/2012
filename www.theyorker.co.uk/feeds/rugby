@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+	<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+	<title>The Yorker - Rugby</title>
+	<link>http://www.theyorker.co.uk/feeds/rugby</link>
+	<atom:link href="http://www.theyorker.co.uk/feeds/rugby" rel="self" type="application/rss+xml" />
+	<description>All the news you need to know about from University of York's Campus!</description>
+	<language>en-gb</language>
+	<copyright>Copyright 2006-2015, The Yorker</copyright>
+	<category>News</category>
+	<pubDate>Wed, 23 Sep 2015 20:02:20 +0100</pubDate>
+	<lastBuildDate>Wed, 23 Sep 2015 20:02:20 +0100</lastBuildDate>
+	<docs>http://www.rssboard.org/rss-specification</docs>
+	<image>
+		<url>http://www.theyorker.co.uk/images/prototype/news/rss-uninews.jpg</url>
+		<width>126</width>
+		<height>126</height>
+		<title>The Yorker - Rugby</title>
+		<link>http://www.theyorker.co.uk/feeds/rugby</link>
+	</image>
+	<managingEditor>editor@theyorker.co.uk (Editor)</managingEditor>
+	<webMaster>webmaster@theyorker.co.uk (Webmaster)</webMaster><item>
+		<title>York City Knights vs Hull FC - Match Preview</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/rugby/8383</link>
+		<description><![CDATA[Nick Wright previews this weekend's clash between York City Knights and Hull FC]]></description>
+		<pubDate>Thu, 19 Jan 2012 20:20:45 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/rugby/8383</guid>
+		</item><item>
+		<title>York City Knights: Battling Knights secure Rhinos victory</title>
+		<author>no-reply@theyorker.co.uk (James Tompkinson)</author>
+		<link>http://www.theyorker.co.uk/news/rugby/8350</link>
+		<description><![CDATA[James Tompkinson reviews an excellent pre-season victory for the York City Knights against Yorkshire rivals Leeds Rhinos]]></description>
+		<pubDate>Sun, 15 Jan 2012 22:48:43 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/rugby/8350</guid>
+		</item><item>
+		<title>York City Knights vs Leeds Rhinos – Match Preview</title>
+		<author>no-reply@theyorker.co.uk (James Tompkinson)</author>
+		<link>http://www.theyorker.co.uk/news/rugby/8330</link>
+		<description><![CDATA[James Tompkinson previews York City Knights' upcoming clash with Leeds Rhinos ]]></description>
+		<pubDate>Fri, 13 Jan 2012 10:44:10 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/rugby/8330</guid>
+		</item><item>
+		<title>They say that revenge is best served cold</title>
+		<author>no-reply@theyorker.co.uk (Guest Writer)</author>
+		<link>http://www.theyorker.co.uk/news/rugby/7903</link>
+		<description><![CDATA[Anthony Quinn previews Saturday's Four Nations match between England and Australia]]></description>
+		<pubDate>Thu, 17 Nov 2011 14:10:47 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/rugby/7903</guid>
+		</item><item>
+		<title>England all set to bounce back against the World Champions</title>
+		<author>no-reply@theyorker.co.uk (Guest Writer)</author>
+		<link>http://www.theyorker.co.uk/news/rugby/7852</link>
+		<description><![CDATA[Anthony Quinn previews today's Four Nations match between England and New Zealand]]></description>
+		<pubDate>Sat, 12 Nov 2011 08:12:51 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/rugby/7852</guid>
+		</item><item>
+		<title>England defeat Wales in first World Cup warm up </title>
+		<author>no-reply@theyorker.co.uk (Mylo Scurr)</author>
+		<link>http://www.theyorker.co.uk/news/rugby/7488</link>
+		<description><![CDATA[England, sporting their new black alternative strip, have beaten Wales 23-19 in the first of a three match warm-up series for the World Cup, with a tries from James Haskell and debut hero Manu Tuilagi, of Leicester. ]]></description>
+		<pubDate>Sat, 06 Aug 2011 23:21:51 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/rugby/7488</guid>
+		</item><item>
+		<title>Six Nations: Ireland crush English Grand Slam dreams</title>
+		<author>no-reply@theyorker.co.uk (Simon Cocks)</author>
+		<link>http://www.theyorker.co.uk/news/rugby/6804</link>
+		<description><![CDATA[Simon Cocks reviews the final weekend of the 2011 Six Nations]]></description>
+		<pubDate>Tue, 22 Mar 2011 19:46:06 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/rugby/6804</guid>
+		</item><item>
+		<title>Six Nations Final Round</title>
+		<author>no-reply@theyorker.co.uk (Bryony Holleran)</author>
+		<link>http://www.theyorker.co.uk/news/rugby/6783</link>
+		<description><![CDATA[Bryony Holleran looks at the final weekend of the Six Nations as England aim for the Grand Slam and title]]></description>
+		<pubDate>Fri, 18 Mar 2011 09:48:14 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/rugby/6783</guid>
+		</item><item>
+		<title>Six Nations: England defeat Scotland to keep Grand Slam hopes alive</title>
+		<author>no-reply@theyorker.co.uk (Simon Cocks)</author>
+		<link>http://www.theyorker.co.uk/news/rugby/6760</link>
+		<description><![CDATA[Simon Cocks reviews all last weekend's games in the Six Nations as England get closer to being crowned Champions]]></description>
+		<pubDate>Tue, 15 Mar 2011 21:57:55 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/rugby/6760</guid>
+		</item><item>
+		<title>Six Nations Round Four Preview</title>
+		<author>no-reply@theyorker.co.uk (Bryony Holleran)</author>
+		<link>http://www.theyorker.co.uk/news/rugby/6722</link>
+		<description><![CDATA[Bryony Holleran looks ahead to the second-to-last weekend of the rugby Six Nations]]></description>
+		<pubDate>Fri, 11 Mar 2011 14:00:32 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/rugby/6722</guid>
+		</item><item>
+		<title>Six Nations: England narrowly overcome France in a close weekend of rugby</title>
+		<author>no-reply@theyorker.co.uk (Simon Cocks)</author>
+		<link>http://www.theyorker.co.uk/news/rugby/5902</link>
+		<description><![CDATA[Simon Cocks looks back at the Six Nations games at the weekend]]></description>
+		<pubDate>Wed, 02 Mar 2011 10:56:47 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/rugby/5902</guid>
+		</item><item>
+		<title>Six Nations Round 3 Preview</title>
+		<author>no-reply@theyorker.co.uk (Bryony Holleran)</author>
+		<link>http://www.theyorker.co.uk/news/rugby/6589</link>
+		<description><![CDATA[Bryony Holleran takes a look at the upcoming Six Nations fixtures this weekend]]></description>
+		<pubDate>Thu, 24 Feb 2011 15:01:02 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/rugby/6589</guid>
+		</item><item>
+		<title>Six Nations: England thrash Italy and France win a close contest in Ireland</title>
+		<author>no-reply@theyorker.co.uk (Simon Cocks)</author>
+		<link>http://www.theyorker.co.uk/news/rugby/3166</link>
+		<description><![CDATA[Simon Cocks reviews the second weekend of the Six Nations]]></description>
+		<pubDate>Wed, 16 Feb 2011 09:44:21 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/rugby/3166</guid>
+		</item></channel></rss>

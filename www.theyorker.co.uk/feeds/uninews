@@ -1,0 +1,233 @@
+<?xml version="1.0" ?>
+	<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+	<title>The Yorker - University News</title>
+	<link>http://www.theyorker.co.uk/feeds/uninews</link>
+	<atom:link href="http://www.theyorker.co.uk/feeds/uninews" rel="self" type="application/rss+xml" />
+	<description>All the news you need to know about from University of York's Campus!</description>
+	<language>en-gb</language>
+	<copyright>Copyright 2006-2015, The Yorker</copyright>
+	<category>News</category>
+	<pubDate>Wed, 23 Sep 2015 20:02:14 +0100</pubDate>
+	<lastBuildDate>Wed, 23 Sep 2015 20:02:14 +0100</lastBuildDate>
+	<docs>http://www.rssboard.org/rss-specification</docs>
+	<image>
+		<url>http://www.theyorker.co.uk/images/prototype/news/rss-uninews.jpg</url>
+		<width>126</width>
+		<height>126</height>
+		<title>The Yorker - University News</title>
+		<link>http://www.theyorker.co.uk/feeds/uninews</link>
+	</image>
+	<managingEditor>editor@theyorker.co.uk (Editor)</managingEditor>
+	<webMaster>webmaster@theyorker.co.uk (Webmaster)</webMaster><item>
+		<title>Photo Diary app wins York prize</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8378</link>
+		<description><![CDATA[A group of York students has won the opportunity to have their very own I-phone application developed after winning The App Challenge final, held at the Ron Cooke Hub on Wednesday, January 18.]]></description>
+		<pubDate>Fri, 20 Jan 2012 13:00:00 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8378</guid>
+		</item><item>
+		<title>Students warned about loans scam</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8376</link>
+		<description><![CDATA[YUSU Welfare officer Bob Hughes has warned students to be vigilant after a student loans phishing scam has been revealed.]]></description>
+		<pubDate>Thu, 19 Jan 2012 17:13:11 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8376</guid>
+		</item><item>
+		<title>Queen Comes to York</title>
+		<author>no-reply@theyorker.co.uk (Thomas Smith)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8371</link>
+		<description><![CDATA[Her Majesty the Queen will be visiting York on Maundy Thursday, 5th April, as part of the 800th anniversary of York’s Charter for the traditional “Royal Maundy” ceremony.]]></description>
+		<pubDate>Wed, 18 Jan 2012 17:31:01 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8371</guid>
+		</item><item>
+		<title>Flooding Triggers Network Outage On Eve Of Exams</title>
+		<author>no-reply@theyorker.co.uk (Jason Rose)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8336</link>
+		<description><![CDATA[A flood caused by a heating system “failure” forced the university IT services to shut down many essential systems on Sunday night, causing problems for many students on the eve of their exams and assignment due-dates.]]></description>
+		<pubDate>Sat, 14 Jan 2012 12:07:44 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8336</guid>
+		</item><item>
+		<title>University hails Campus Security emergency call success </title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8313</link>
+		<description><![CDATA[Over 95% of emergency calls to Campus Security were answered within 15 seconds, it has been revealed.]]></description>
+		<pubDate>Thu, 12 Jan 2012 16:01:10 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8313</guid>
+		</item><item>
+		<title>€1.5 million for Archaeology research</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8319</link>
+		<description><![CDATA[The University of York’s archaeological excavations at one of the country’s most important sites have gained €1.5 million for new research from the European Research Council.]]></description>
+		<pubDate>Wed, 11 Jan 2012 12:45:02 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8319</guid>
+		</item><item>
+		<title>Nightline scoops No Posters Promo Competition prize</title>
+		<author>no-reply@theyorker.co.uk (Aimee Howarth)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8311</link>
+		<description><![CDATA[York Nightline has been named as the winner of YUSU’s No Posters Promo Competition, receiving a £30 Courtyard voucher as their prize.]]></description>
+		<pubDate>Tue, 10 Jan 2012 19:31:35 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8311</guid>
+		</item><item>
+		<title>Unexploded bomb found on Hull Road</title>
+		<author>no-reply@theyorker.co.uk (Lizzy Pennock)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8310</link>
+		<description><![CDATA[An unexploded bomb found on Hull Road]]></description>
+		<pubDate>Mon, 09 Jan 2012 14:52:24 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8310</guid>
+		</item><item>
+		<title>Scientists from York "Open The Door" to HIV inhibitors</title>
+		<author>no-reply@theyorker.co.uk (Jason Rose)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8305</link>
+		<description><![CDATA[International Scientists, including Professor Davies, of the University of York's Department of Chemistry have made a breakthrough key to the fight against HIV]]></description>
+		<pubDate>Thu, 05 Jan 2012 21:02:13 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8305</guid>
+		</item><item>
+		<title>Parisian exhibition comes to York</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8303</link>
+		<description><![CDATA[A new exhibition, recently shown in Paris is to open at King’s Manor, funded by the EU’s Culture Programme.]]></description>
+		<pubDate>Tue, 03 Jan 2012 15:45:56 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8303</guid>
+		</item><item>
+		<title>Top York news stories of 2011</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8291</link>
+		<description><![CDATA[The Yorker looks back at the top news stories featured on The Yorker this year. ]]></description>
+		<pubDate>Sat, 31 Dec 2011 18:59:11 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8291</guid>
+		</item><item>
+		<title>A look at Christmas headlines past</title>
+		<author>no-reply@theyorker.co.uk (Thomas Smith)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8270</link>
+		<description><![CDATA[The Yorker looks back at notable events on Christmas Days past.]]></description>
+		<pubDate>Sat, 24 Dec 2011 19:41:28 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8270</guid>
+		</item><item>
+		<title>JCRC round up: meet the chairs</title>
+		<author>no-reply@theyorker.co.uk (Aimee Howarth)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8250</link>
+		<description><![CDATA[With all JCRC election results now announced, The Yorker caught up with the seven new college chairs to ask them about the elections and what plans they have in store.]]></description>
+		<pubDate>Thu, 22 Dec 2011 12:45:58 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8250</guid>
+		</item><item>
+		<title>York Community Carol Concert raises over £4,000</title>
+		<author>no-reply@theyorker.co.uk (Aimee Howarth)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8248</link>
+		<description><![CDATA[York’s Annual Community Carol Concert has raised an anticipated £4,000 for charities on its return to the York Barbican.
+]]></description>
+		<pubDate>Wed, 21 Dec 2011 15:11:40 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8248</guid>
+		</item><item>
+		<title>York plays key role in new online environmental footprint tool</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8234</link>
+		<description><![CDATA[The Stockholm Environment Institute (SEI) at the University of York has played a key role in developing a unique new tool for mapping ecological carbon and water footprint data across all 27 EU member states.]]></description>
+		<pubDate>Tue, 20 Dec 2011 14:37:59 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8234</guid>
+		</item><item>
+		<title>University of York awards Morrell Fellowships</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8235</link>
+		<description><![CDATA[The University of York has awarded three Morrell Fellowships to its outstanding supporters in recognition of the significant contribution they have made to the University.]]></description>
+		<pubDate>Mon, 19 Dec 2011 20:27:57 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8235</guid>
+		</item><item>
+		<title>New LGBT Officer reveals big events plans</title>
+		<author>no-reply@theyorker.co.uk (Aimee Howarth)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8225</link>
+		<description><![CDATA[YUSU’s newly elected LGBT Officer Cem Turhan has revealed his plans for numerous events next term as he aims to raise awareness across campus.]]></description>
+		<pubDate>Sun, 18 Dec 2011 17:55:54 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8225</guid>
+		</item><item>
+		<title>YUSU reveal free chlamydia testing kits</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8233</link>
+		<description><![CDATA[YUSU and YorSexual Health, North Yorkshire and Yorks Sexual Health Hub, have agreed a partnership to provide free chlamydia testing kits around the University. ]]></description>
+		<pubDate>Sat, 17 Dec 2011 12:00:06 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8233</guid>
+		</item><item>
+		<title>Improvements still needed at Fairfax House</title>
+		<author>no-reply@theyorker.co.uk (Aimee Howarth)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8224</link>
+		<description><![CDATA[Accommodation at Fairfax House has not significantly improved, students say, despite the building being allocated £30,000 extra funding after having to compensate last year’s residents.]]></description>
+		<pubDate>Fri, 16 Dec 2011 06:29:15 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8224</guid>
+		</item><item>
+		<title>Students at risk as debt in York increases</title>
+		<author>no-reply@theyorker.co.uk (Aimee Howarth)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8223</link>
+		<description><![CDATA[The Consumer Credit Counselling Service (CCCS) is offering advice to students and households across York after new figures show budgets are under pressure]]></description>
+		<pubDate>Thu, 15 Dec 2011 13:30:23 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8223</guid>
+		</item><item>
+		<title>YUSU urges students to complete 'Safer Campus' survey</title>
+		<author>no-reply@theyorker.co.uk (Aimee Howarth)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8217</link>
+		<description><![CDATA[YUSU’s Welfare and Women’s Committees have teamed up to carry out a ‘Safer Campus’ survey following concerns raised by students over the lack of lighting in some parts of campus.]]></description>
+		<pubDate>Wed, 14 Dec 2011 16:34:53 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8217</guid>
+		</item><item>
+		<title>York artist releases Christmas charity song</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8209</link>
+		<description><![CDATA[York based singer-songwriter Casee Wilson has written and recorded a Christmas song ‘Yuletide Bells’ in aid of Cancer Research UK. ]]></description>
+		<pubDate>Tue, 13 Dec 2011 21:47:02 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8209</guid>
+		</item><item>
+		<title>Iranian TV covers YUSU referenda</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8198</link>
+		<description><![CDATA[Tim Ellis has spoken of his embarrassment as an Iranian media outlet described the recent rejection of a YUSU referendum motion as an example of anti-Israeli feeling in York.]]></description>
+		<pubDate>Mon, 12 Dec 2011 18:04:18 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8198</guid>
+		</item><item>
+		<title>YUSU & GSA results announced </title>
+		<author>no-reply@theyorker.co.uk (Jason Rose)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8169</link>
+		<description><![CDATA[The results of both YUSU and York GSA’s autumn student elections have been published, and whilst some positions were highly contested, many were left empty.]]></description>
+		<pubDate>Mon, 12 Dec 2011 13:14:38 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8169</guid>
+		</item><item>
+		<title>York scientists use 'Star Wars' techniques to test atmosphere</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8191</link>
+		<description><![CDATA[York scientists are part of an international research team exploring ‘Star Wars’ techniques to improve our understanding of the Earth’s atmosphere and of global change.]]></description>
+		<pubDate>Mon, 12 Dec 2011 11:30:07 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8191</guid>
+		</item><item>
+		<title>Vanbrugh JCRC results announced</title>
+		<author>no-reply@theyorker.co.uk (Aimee Howarth)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8165</link>
+		<description><![CDATA[After weeks of campaigning and voting, the next Vanbrugh JCRC, to be led by newly-elected chair Matthew Stephenson, has been announced.]]></description>
+		<pubDate>Sat, 10 Dec 2011 11:25:02 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8165</guid>
+		</item><item>
+		<title>York involved in €4.3M Slave Trade project</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8140</link>
+		<description><![CDATA[The Department of Archaeology is taking part in an €4.3M international project to study the Transatlantic Slave Trade.]]></description>
+		<pubDate>Fri, 09 Dec 2011 16:22:07 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8140</guid>
+		</item><item>
+		<title>Langwith JCRC candidate roundup</title>
+		<author>no-reply@theyorker.co.uk (Guest Writer)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8156</link>
+		<description><![CDATA[The hustings are over, and with campaigns in full swing, the Langwith JCRC elections for 2012 are now taking place]]></description>
+		<pubDate>Fri, 09 Dec 2011 14:37:04 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8156</guid>
+		</item><item>
+		<title>York researcher calls for Sex Pistols' graffiti to be conserved</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8141</link>
+		<description><![CDATA[A University of York researcher is calling for graffiti drawn by the Sex Pistols to be conserved as part of national heritage.]]></description>
+		<pubDate>Thu, 08 Dec 2011 14:22:03 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8141</guid>
+		</item><item>
+		<title>Did you know about: Large House Spiders?</title>
+		<author>no-reply@theyorker.co.uk (Guest Writer)</author>
+		<link>http://www.theyorker.co.uk/news/uninews/8144</link>
+		<description><![CDATA[In the first of our features speaking to world-leading academics who ply their trade at York, we met up with Dr. Geoff Oxford from the Department of Biology to discuss spiders.]]></description>
+		<pubDate>Wed, 07 Dec 2011 22:52:00 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/uninews/8144</guid>
+		</item></channel></rss>

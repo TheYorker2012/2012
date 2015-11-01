@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+	<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+	<title>The Yorker - Varsity X</title>
+	<link>http://www.theyorker.co.uk/feeds/varsity10</link>
+	<atom:link href="http://www.theyorker.co.uk/feeds/varsity10" rel="self" type="application/rss+xml" />
+	<description>All the news you need to know about from University of York's Campus!</description>
+	<language>en-gb</language>
+	<copyright>Copyright 2006-2015, The Yorker</copyright>
+	<category>News</category>
+	<pubDate>Wed, 23 Sep 2015 20:02:14 +0100</pubDate>
+	<lastBuildDate>Wed, 23 Sep 2015 20:02:14 +0100</lastBuildDate>
+	<docs>http://www.rssboard.org/rss-specification</docs>
+	<image>
+		<url>http://www.theyorker.co.uk/images/prototype/news/rss-uninews.jpg</url>
+		<width>126</width>
+		<height>126</height>
+		<title>The Yorker - Varsity X</title>
+		<link>http://www.theyorker.co.uk/feeds/varsity10</link>
+	</image>
+	<managingEditor>editor@theyorker.co.uk (Editor)</managingEditor>
+	<webMaster>webmaster@theyorker.co.uk (Webmaster)</webMaster><item>
+		<title>Varsity Basketball 2010: York Women’s thrash York St. John 59-8</title>
+		<author>no-reply@theyorker.co.uk (Phil Mace)</author>
+		<link>http://www.theyorker.co.uk/news/varsity10/4399</link>
+		<description><![CDATA[In a game as predictable as the rising of the sun, York Women’s thrashed St. John throughout the entire game. After the game President Kate Smith apologised to several spectators for just how boring the game became. The team, the crowd, and this reporter, all can’t wait for the Women to be promoted to face the rivals that fit their calibre.
+]]></description>
+		<pubDate>Tue, 02 Mar 2010 00:12:57 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/varsity10/4399</guid>
+		</item><item>
+		<title>An 'absolute row over'</title>
+		<author>no-reply@theyorker.co.uk (Rebecca Ellis)</author>
+		<link>http://www.theyorker.co.uk/news/varsity10/4388</link>
+		<description><![CDATA[Lara Wainwright sums up the rowing at Varsity.]]></description>
+		<pubDate>Sun, 28 Feb 2010 22:51:12 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/varsity10/4388</guid>
+		</item><item>
+		<title>Varsity Live Blog 2010</title>
+		<author>no-reply@theyorker.co.uk (Fiona Lavelle)</author>
+		<link>http://www.theyorker.co.uk/news/varsityliveblog/4361</link>
+		<description><![CDATA[The Yorker brings you the action live from the Varsity sport competition between York St. Johns and the University of York. ]]></description>
+		<pubDate>Sun, 28 Feb 2010 09:44:00 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/varsityliveblog/4361</guid>
+		</item><item>
+		<title>York swim to victory in Varsity gala</title>
+		<author>no-reply@theyorker.co.uk (Tom Fitz-Hugh)</author>
+		<link>http://www.theyorker.co.uk/news/varsitymatchreports/4376</link>
+		<description><![CDATA[York dominated the varsity swimming from the off, winning comfortably 67 - 43 to take an eighteen point overall lead into tomorrow's fixtures.]]></description>
+		<pubDate>Sun, 28 Feb 2010 08:33:50 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/varsitymatchreports/4376</guid>
+		</item></channel></rss>

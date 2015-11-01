@@ -1,0 +1,233 @@
+<?xml version="1.0" ?>
+	<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+	<title>The Yorker - Food & Drink</title>
+	<link>http://www.theyorker.co.uk/feeds/fooddrink</link>
+	<atom:link href="http://www.theyorker.co.uk/feeds/fooddrink" rel="self" type="application/rss+xml" />
+	<description>All the news you need to know about from University of York's Campus!</description>
+	<language>en-gb</language>
+	<copyright>Copyright 2006-2015, The Yorker</copyright>
+	<category>News</category>
+	<pubDate>Wed, 23 Sep 2015 20:02:16 +0100</pubDate>
+	<lastBuildDate>Wed, 23 Sep 2015 20:02:16 +0100</lastBuildDate>
+	<docs>http://www.rssboard.org/rss-specification</docs>
+	<image>
+		<url>http://www.theyorker.co.uk/images/prototype/news/rss-uninews.jpg</url>
+		<width>126</width>
+		<height>126</height>
+		<title>The Yorker - Food & Drink</title>
+		<link>http://www.theyorker.co.uk/feeds/fooddrink</link>
+	</image>
+	<managingEditor>editor@theyorker.co.uk (Editor)</managingEditor>
+	<webMaster>webmaster@theyorker.co.uk (Webmaster)</webMaster><item>
+		<title>Anna's sweet and sticky pork buns</title>
+		<author>no-reply@theyorker.co.uk (Anna Mckay)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/8373</link>
+		<description><![CDATA[Anna Mckay shares a recipe perfect for celebrating Chinese New Year]]></description>
+		<pubDate>Sun, 22 Jan 2012 03:00:49 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/8373</guid>
+		</item><item>
+		<title>This little place I know</title>
+		<author>no-reply@theyorker.co.uk (Laura Reynolds)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/8346</link>
+		<description><![CDATA[Laura Reynolds reviews the latest arrival to the York cafe scene]]></description>
+		<pubDate>Sun, 15 Jan 2012 17:35:00 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/8346</guid>
+		</item><item>
+		<title>Anna's creamy chicken stroganoff</title>
+		<author>no-reply@theyorker.co.uk (Anna Mckay)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/8335</link>
+		<description><![CDATA[Anna Mckay tempts us to break the new year healthy eating streak.]]></description>
+		<pubDate>Sun, 15 Jan 2012 02:11:29 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/8335</guid>
+		</item><item>
+		<title>The Advent Calendar-Day 21</title>
+		<author>no-reply@theyorker.co.uk (Nathan Blades)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/8257</link>
+		<description><![CDATA[Just 4 days until Christmas..get in the mood with some festive nosh!]]></description>
+		<pubDate>Wed, 21 Dec 2011 02:15:24 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/8257</guid>
+		</item><item>
+		<title>Anna's chicken enchiladas</title>
+		<author>no-reply@theyorker.co.uk (Anna Mckay)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/8174</link>
+		<description><![CDATA[Anna Mckay adds a festive twist to this traditional Mexican food.]]></description>
+		<pubDate>Sun, 11 Dec 2011 06:27:33 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/8174</guid>
+		</item><item>
+		<title>The Advent Calendar-Day 11</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/8180</link>
+		<description><![CDATA[Behind door 11...some drinks to get you in the festive spirit.]]></description>
+		<pubDate>Sun, 11 Dec 2011 02:29:21 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/8180</guid>
+		</item><item>
+		<title>Bubble tea-an upcoming trend</title>
+		<author>no-reply@theyorker.co.uk (Laura Reynolds)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/8175</link>
+		<description><![CDATA[Laura Reynolds looks at why bubbles are the new fish.]]></description>
+		<pubDate>Fri, 09 Dec 2011 19:36:37 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/8175</guid>
+		</item><item>
+		<title>Red Chilli-review</title>
+		<author>no-reply@theyorker.co.uk (Jess Astbury)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/8086</link>
+		<description><![CDATA[Jess Astbury reviews the Beijiing and Sichuan cuisine.]]></description>
+		<pubDate>Sun, 04 Dec 2011 07:56:02 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/8086</guid>
+		</item><item>
+		<title>Easy fruit crumble</title>
+		<author>no-reply@theyorker.co.uk (Anna Mckay)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/8050</link>
+		<description><![CDATA[Anna Mckay shares her recipe for this winter warmer]]></description>
+		<pubDate>Sun, 04 Dec 2011 06:53:12 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/8050</guid>
+		</item><item>
+		<title>The York Tap-Review</title>
+		<author>no-reply@theyorker.co.uk (Ian Angell)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/7983</link>
+		<description><![CDATA[Looking for somewhere to have a few quiet drinks? Ian Angell reviews The York Tap]]></description>
+		<pubDate>Sun, 27 Nov 2011 14:56:28 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/7983</guid>
+		</item><item>
+		<title>York Cocoa House- review</title>
+		<author>no-reply@theyorker.co.uk (Laura Reynolds)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/8000</link>
+		<description><![CDATA[Laura Reynolds reviews the latest cafe to open in York
+]]></description>
+		<pubDate>Sun, 27 Nov 2011 09:24:12 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/8000</guid>
+		</item><item>
+		<title>Anna's haddock chowder</title>
+		<author>no-reply@theyorker.co.uk (Anna Mckay)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/7994</link>
+		<description><![CDATA[Thanksgiving may be over, but we’re reliably informed that Anna Mckay’s recipe will keep the holiday alive.]]></description>
+		<pubDate>Sun, 27 Nov 2011 03:58:03 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/7994</guid>
+		</item><item>
+		<title>Anna's chicken soup</title>
+		<author>no-reply@theyorker.co.uk (Anna Mckay)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/7918</link>
+		<description><![CDATA[]]></description>
+		<pubDate>Sun, 20 Nov 2011 07:56:57 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/7918</guid>
+		</item><item>
+		<title>The Blue Bicycle-review</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/7858</link>
+		<description><![CDATA[Charlotte Couldrey reports on this well respected York restaurant]]></description>
+		<pubDate>Sun, 13 Nov 2011 13:33:00 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/7858</guid>
+		</item><item>
+		<title>Anna's burger recipe</title>
+		<author>no-reply@theyorker.co.uk (Anna Mckay)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/7803</link>
+		<description><![CDATA[Anna Mckay shows us how to inject some summer flavours into these dull Autumn days]]></description>
+		<pubDate>Sun, 13 Nov 2011 03:11:05 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/7803</guid>
+		</item><item>
+		<title>Ristorante Bari-review</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/7790</link>
+		<description><![CDATA[Charlotte Couldrey reviews this rustic restaurant]]></description>
+		<pubDate>Sun, 06 Nov 2011 17:04:21 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/7790</guid>
+		</item><item>
+		<title>Pea and avocado salad</title>
+		<author>no-reply@theyorker.co.uk (Guest Writer)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/7523</link>
+		<description><![CDATA[A fresh and easy summer salad, ideal for late summer evenings.]]></description>
+		<pubDate>Sun, 28 Aug 2011 01:09:02 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/7523</guid>
+		</item><item>
+		<title>Potato rosti</title>
+		<author>no-reply@theyorker.co.uk (Guest Writer)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/7511</link>
+		<description><![CDATA[Learn how to make this Swiss potato pancake and have fun playing around with serving combinations.]]></description>
+		<pubDate>Sun, 21 Aug 2011 01:09:09 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/7511</guid>
+		</item><item>
+		<title>Why it's OK not to like beer</title>
+		<author>no-reply@theyorker.co.uk (Lizzy Pennock)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/7434</link>
+		<description><![CDATA[Lizzy Pennock looks at the confusing world of beverages]]></description>
+		<pubDate>Sun, 10 Jul 2011 04:24:41 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/7434</guid>
+		</item><item>
+		<title>Anna's rock cakes</title>
+		<author>no-reply@theyorker.co.uk (Anna Mckay)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/7331</link>
+		<description><![CDATA[Anna Mckay shows you how to make the perfect comfort food for a rainy day - rock cakes.]]></description>
+		<pubDate>Sun, 19 Jun 2011 02:02:52 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/7331</guid>
+		</item><item>
+		<title>Anna's strawberry and banana smoothie</title>
+		<author>no-reply@theyorker.co.uk (Anna Mckay)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/7231</link>
+		<description><![CDATA[Anna Mckay shows you how to make a healthy and delicious strawberry and banana smoothie, perfect for summer.]]></description>
+		<pubDate>Sun, 05 Jun 2011 04:05:36 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/7231</guid>
+		</item><item>
+		<title>Low fat limoncello tart with vodka and raspberry coulis</title>
+		<author>no-reply@theyorker.co.uk (Cat Bennett)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/7169</link>
+		<description><![CDATA[Catherine Bennett shows you how to make a delicious and guilt-free limoncello tart.]]></description>
+		<pubDate>Sun, 29 May 2011 10:02:45 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/7169</guid>
+		</item><item>
+		<title>Anna's pizza recipe</title>
+		<author>no-reply@theyorker.co.uk (Anna Mckay)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/7111</link>
+		<description><![CDATA[Anna Mckay shows you how to make your own fresh pizza.]]></description>
+		<pubDate>Sun, 22 May 2011 01:59:45 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/7111</guid>
+		</item><item>
+		<title>The Cocktail Society: Roses cocktails part 4</title>
+		<author>no-reply@theyorker.co.uk (Cocktail Society)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/7055</link>
+		<description><![CDATA[The Cocktail society rounds up its suggestions of cocktail recipes with which to celebrate the Roses.]]></description>
+		<pubDate>Sun, 15 May 2011 01:07:06 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/7055</guid>
+		</item><item>
+		<title>The Cocktail Society: Roses cocktails part 3</title>
+		<author>no-reply@theyorker.co.uk (Cocktail Society)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/7050</link>
+		<description><![CDATA[The Cocktail Society's third installment of cocktail recipes with which to celebrate the roses.]]></description>
+		<pubDate>Sat, 14 May 2011 13:10:36 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/7050</guid>
+		</item><item>
+		<title>Cocktail Society: Roses cocktails part 2</title>
+		<author>no-reply@theyorker.co.uk (Cocktail Society)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/7009</link>
+		<description><![CDATA[The Cocktail Society write more cocktail recipes in honour of the Roses.]]></description>
+		<pubDate>Wed, 11 May 2011 12:13:03 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/7009</guid>
+		</item><item>
+		<title>Cocktail Society: Roses 2011 cocktail countdown</title>
+		<author>no-reply@theyorker.co.uk (Lizzy Pennock)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/6977</link>
+		<description><![CDATA[Cocktail Society have some red and white themed cocktails to get you in the sporting mood.]]></description>
+		<pubDate>Sun, 08 May 2011 02:01:38 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/6977</guid>
+		</item><item>
+		<title>Student kitchen politics</title>
+		<author>no-reply@theyorker.co.uk (Lizzy Pennock)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/6941</link>
+		<description><![CDATA[Lizzy Pennock on a few student kitchen stereotypes...]]></description>
+		<pubDate>Sun, 08 May 2011 01:00:28 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/6941</guid>
+		</item><item>
+		<title>Cocktail Society: Easter cocktails</title>
+		<author>no-reply@theyorker.co.uk (Cocktail Society)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/6881</link>
+		<description><![CDATA[Cocktail Society are back with a selection of scrumptious Easter-themed cocktails.]]></description>
+		<pubDate>Sun, 17 Apr 2011 01:01:28 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/6881</guid>
+		</item><item>
+		<title>Roast duck with orange salsa and coconut rice</title>
+		<author>no-reply@theyorker.co.uk (Guest Writer)</author>
+		<link>http://www.theyorker.co.uk/news/fooddrink/6834</link>
+		<description><![CDATA[A perfect recipe for Mother's Day? Jeanie Watson shows you how.]]></description>
+		<pubDate>Sun, 03 Apr 2011 13:16:55 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/fooddrink/6834</guid>
+		</item></channel></rss>

@@ -1,0 +1,236 @@
+<?xml version="1.0" ?>
+	<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+	<title>The Yorker - Features</title>
+	<link>http://www.theyorker.co.uk/feeds/features</link>
+	<atom:link href="http://www.theyorker.co.uk/feeds/features" rel="self" type="application/rss+xml" />
+	<description>All the news you need to know about from University of York's Campus!</description>
+	<language>en-gb</language>
+	<copyright>Copyright 2006-2015, The Yorker</copyright>
+	<category>News</category>
+	<pubDate>Wed, 23 Sep 2015 20:02:14 +0100</pubDate>
+	<lastBuildDate>Wed, 23 Sep 2015 20:02:14 +0100</lastBuildDate>
+	<docs>http://www.rssboard.org/rss-specification</docs>
+	<image>
+		<url>http://www.theyorker.co.uk/images/prototype/news/rss-uninews.jpg</url>
+		<width>126</width>
+		<height>126</height>
+		<title>The Yorker - Features</title>
+		<link>http://www.theyorker.co.uk/feeds/features</link>
+	</image>
+	<managingEditor>editor@theyorker.co.uk (Editor)</managingEditor>
+	<webMaster>webmaster@theyorker.co.uk (Webmaster)</webMaster><item>
+		<title>Advent Calendar Day 25</title>
+		<author>no-reply@theyorker.co.uk (Aimee Howarth)</author>
+		<link>http://www.theyorker.co.uk/news/features/8269</link>
+		<description><![CDATA[Aimee Howarth brings you an interview with The Yorker directors on the final day of the advent articles]]></description>
+		<pubDate>Sun, 25 Dec 2011 10:30:41 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/8269</guid>
+		</item><item>
+		<title>The Advent Calendar Day 17</title>
+		<author>no-reply@theyorker.co.uk (Aimee Howarth)</author>
+		<link>http://www.theyorker.co.uk/news/features/8236</link>
+		<description><![CDATA[Aimee Howarth speaks to YUSU's sabbatical officers about their Christmas Day routine for day 17 of the advent calendar]]></description>
+		<pubDate>Sat, 17 Dec 2011 21:48:05 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/8236</guid>
+		</item><item>
+		<title>The Week in Film </title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/features/8159</link>
+		<description><![CDATA[For the final time this term, Vicky Morris updates you on this weeks film news]]></description>
+		<pubDate>Fri, 09 Dec 2011 18:42:58 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/8159</guid>
+		</item><item>
+		<title>A Roalding Legacy.</title>
+		<author>no-reply@theyorker.co.uk (Alex Jackson)</author>
+		<link>http://www.theyorker.co.uk/news/features/7567</link>
+		<description><![CDATA[50 years after the publication of 'James and the Giant Peach', the works of Roald Dahl continue to celebrate success.]]></description>
+		<pubDate>Mon, 19 Sep 2011 20:30:00 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/7567</guid>
+		</item><item>
+		<title>A look at York Carnival </title>
+		<author>no-reply@theyorker.co.uk (James Arden, Niall Parr)</author>
+		<link>http://www.theyorker.co.uk/news/features/3071</link>
+		<description><![CDATA[The Yorker investigates what goes on behind the scenes of the York Carnival. ]]></description>
+		<pubDate>Mon, 14 Jun 2010 19:17:24 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/3071</guid>
+		</item><item>
+		<title>Leeds Beer Fest 2010</title>
+		<author>no-reply@theyorker.co.uk (Sofya Shahab)</author>
+		<link>http://www.theyorker.co.uk/news/features/4916</link>
+		<description><![CDATA[With over 100,000 CAMRA (Campaign for Real Ale) members nationally and an average attendance of 3,500 over the past ten years, the 2010 Leeds CAMRA Beer, Cider and Perry Festival was bound to be a triumph. An evening of merriment was guaranteed with over 150 real ales from Yorkshire and beyond plus an assortment of traditional cider and perry, as well as hot snacks to soak up the alcohol (who needs Viking Kitchen?) and live music from local musicians.]]></description>
+		<pubDate>Sun, 30 May 2010 18:07:13 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4916</guid>
+		</item><item>
+		<title>The Purple Revolution to hit York</title>
+		<author>no-reply@theyorker.co.uk (Zahra Yassim)</author>
+		<link>http://www.theyorker.co.uk/news/features/4728</link>
+		<description><![CDATA[The Yorker has learned that a revolution is brewing in the city. Students from the University of York are in the process of organising a protest on electoral reform. Still in the works, the rally is expected to occur at 14.00 hours on May 15, next Saturday at King's Square (near The Shambles). Don purple if you are attending. 
+]]></description>
+		<pubDate>Sun, 09 May 2010 18:54:35 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4728</guid>
+		</item><item>
+		<title>What Sort of Facebooker Are You?</title>
+		<author>no-reply@theyorker.co.uk (Emily Boyd)</author>
+		<link>http://www.theyorker.co.uk/news/features/4696</link>
+		<description><![CDATA[Facebook is dominating our lives: there are some who revel in the cyber-society, updating, adding, joining, and liking indiscriminately. Yet impossible as it may seem there are some who still haven’t joined. With such varying attitudes out there, we ask the question: what sort of a Facebooker are you?]]></description>
+		<pubDate>Wed, 05 May 2010 10:01:50 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4696</guid>
+		</item><item>
+		<title>Micklegate - So Misunderstood</title>
+		<author>no-reply@theyorker.co.uk (Emily Boyd)</author>
+		<link>http://www.theyorker.co.uk/news/features/4646</link>
+		<description><![CDATA[On a Wednesday night the bright young things of The University of York can be found in their hundreds swarming down Micklegate, towards the bright lights and loud noises that shine and shout from Nag's, and Zigs, and that late night takeaway at the bottom of the hill.]]></description>
+		<pubDate>Wed, 28 Apr 2010 20:18:01 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4646</guid>
+		</item><item>
+		<title>The Wars of the Roses: a brief history</title>
+		<author>no-reply@theyorker.co.uk (Fiona Lavelle)</author>
+		<link>http://www.theyorker.co.uk/news/features/4627</link>
+		<description><![CDATA[Roses is a well known and loved annual sporting competition between the Universities of Lancaster and York. Its namesake was a much darker affair of dynastic rivalry and bloodshed. ]]></description>
+		<pubDate>Sat, 24 Apr 2010 03:20:39 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4627</guid>
+		</item><item>
+		<title>Interview with Aaron Porter</title>
+		<author>no-reply@theyorker.co.uk (Ben McCluskey)</author>
+		<link>http://www.theyorker.co.uk/news/features/4623</link>
+		<description><![CDATA[Ben McCluskey interviews NUS President-elect Aaron Porter about the year ahead for students.]]></description>
+		<pubDate>Thu, 22 Apr 2010 13:21:10 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4623</guid>
+		</item><item>
+		<title>Lancaster comments on York exam and Roses competition dates clash</title>
+		<author>no-reply@theyorker.co.uk (Chiifen Hiu)</author>
+		<link>http://www.theyorker.co.uk/news/features/4604</link>
+		<description><![CDATA[According to Lancaster University Student Union sports vice-president Sue Wynes, the differing term dates between York and Lancaster has been an “increasing problem in the last few years when it comes to organising Roses.”]]></description>
+		<pubDate>Thu, 15 Apr 2010 19:46:45 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4604</guid>
+		</item><item>
+		<title>War hero – and man’s best friend</title>
+		<author>no-reply@theyorker.co.uk (Chiifen Hiu)</author>
+		<link>http://www.theyorker.co.uk/news/features/4331</link>
+		<description><![CDATA[A black Labrador Retriever by the name of Treo will be receiving the Dickin Medal (the animal version of the Victoria Cross) at the Imperial War Museum in London later today for his gallant effort saving lives in Afghanistan.]]></description>
+		<pubDate>Wed, 24 Feb 2010 08:26:42 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4331</guid>
+		</item><item>
+		<title>How much should we pay for higher education?</title>
+		<author>no-reply@theyorker.co.uk (Jason Rose)</author>
+		<link>http://www.theyorker.co.uk/news/features/4295</link>
+		<description><![CDATA[A year on: Jason Rose on Higher Education funding. ]]></description>
+		<pubDate>Mon, 22 Feb 2010 00:23:09 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4295</guid>
+		</item><item>
+		<title>Dutch Cabinet falls over Afghanistan mission</title>
+		<author>no-reply@theyorker.co.uk (Olivier Schotel)</author>
+		<link>http://www.theyorker.co.uk/news/features/4300</link>
+		<description><![CDATA[In the early morning of 20 February 2010 the Dutch Cabinet has fallen.]]></description>
+		<pubDate>Sun, 21 Feb 2010 07:01:03 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4300</guid>
+		</item><item>
+		<title>Oppression or Expression?</title>
+		<author>no-reply@theyorker.co.uk (Zeenat Rahim)</author>
+		<link>http://www.theyorker.co.uk/news/features/4293</link>
+		<description><![CDATA[Good good, so here we go again - a few years ago it was Jack Straw and now it's Sarkozy across the river. Okay, we're oppressed, I get it! Cheers for the reminder we don't get every day... You'd think the constant furore over the hijab would at some point calm down but if it's not on the front pages it's lurking at the back, somewhere between the crossword and sudoku (or, for you ‘Sun’ avids, between the soap opera and 'It's the Business', their credible business section). Following France’s admission into the debate, in my pitiful attempts to change the world's perception of Islam one Yorker article at a time, I'm continuing with an issue very close to my heart. And, also, head. ]]></description>
+		<pubDate>Sat, 20 Feb 2010 15:23:31 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4293</guid>
+		</item><item>
+		<title>Operation Moshtarak – 5 days, 14 lives and counting</title>
+		<author>no-reply@theyorker.co.uk (Chiifen Hiu)</author>
+		<link>http://www.theyorker.co.uk/news/features/4275</link>
+		<description><![CDATA[It is now Day 6 of Operation Moshtarak, and so far it has claimed the lives of 12 Afghan civilians, one British soldier and one US Marine. ]]></description>
+		<pubDate>Thu, 18 Feb 2010 12:00:51 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4275</guid>
+		</item><item>
+		<title>RAG week 2010 - an overview</title>
+		<author>no-reply@theyorker.co.uk (Chiifen Hiu)</author>
+		<link>http://www.theyorker.co.uk/news/features/4251</link>
+		<description><![CDATA[RAG week 2010 has finally come and gone. It was a busy week for all involved, with back-to-back events every night for the whole week. ]]></description>
+		<pubDate>Mon, 15 Feb 2010 15:50:21 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4251</guid>
+		</item><item>
+		<title>Langwith presents Conor Wilcock</title>
+		<author>no-reply@theyorker.co.uk (Niall Parr)</author>
+		<link>http://www.theyorker.co.uk/news/features/4227</link>
+		<description><![CDATA[The Yorker talks to Conor Wilcock, the new chair of Langwith JCRC]]></description>
+		<pubDate>Fri, 12 Feb 2010 17:46:15 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4227</guid>
+		</item><item>
+		<title>Invictus: the most important game ever played</title>
+		<author>no-reply@theyorker.co.uk (Olivier Schotel)</author>
+		<link>http://www.theyorker.co.uk/news/features/4211</link>
+		<description><![CDATA[New film Invictus shows that South Africa’s victory over New Zealand in the 1995 rugby world cup final changed the country.]]></description>
+		<pubDate>Thu, 11 Feb 2010 09:10:56 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4211</guid>
+		</item><item>
+		<title>James presents Tim Green</title>
+		<author>no-reply@theyorker.co.uk (Niall Parr)</author>
+		<link>http://www.theyorker.co.uk/news/features/4145</link>
+		<description><![CDATA[Niall Parr meets the new chair of James College]]></description>
+		<pubDate>Thu, 04 Feb 2010 12:01:39 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4145</guid>
+		</item><item>
+		<title>Meet Holly Burton: Derwent Chair</title>
+		<author>no-reply@theyorker.co.uk (Fiona Lavelle)</author>
+		<link>http://www.theyorker.co.uk/news/features/4132</link>
+		<description><![CDATA[As one of the few colleges with a complete JCRC team, Derwent College demonstrates the power of its college spirit yet again. Famed for its themed socials, especially Big D in Summer term, Derwent College has already taken important steps to maintain its reputation. ]]></description>
+		<pubDate>Wed, 03 Feb 2010 16:46:43 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4132</guid>
+		</item><item>
+		<title>Nightmare on Christmas Day</title>
+		<author>no-reply@theyorker.co.uk (Chiifen Hiu)</author>
+		<link>http://www.theyorker.co.uk/news/features/4116</link>
+		<description><![CDATA[As Flight 232 landed in Detroit on Christmas day after surviving a bomb threat, it brought with it a few serious issues. First of all, how did a person carrying an explosive device manage to get on board a flight? 
+
+]]></description>
+		<pubDate>Sun, 31 Jan 2010 22:19:37 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4116</guid>
+		</item><item>
+		<title>Meet Tahir Shetty: Vanbrugh Chair  </title>
+		<author>no-reply@theyorker.co.uk (Fiona Lavelle)</author>
+		<link>http://www.theyorker.co.uk/news/features/4094</link>
+		<description><![CDATA[New Vanbrugh College chair, Tahir Shetty has big shoes to fill. Under his predecessor Dani Fill, Vanbrugh saw a successful JCRC direct the college very smoothly. Already criticized by YUSU for the explicit images used to advertise P.O.R.N.O., will Tahir live up to the challenge?
+]]></description>
+		<pubDate>Fri, 29 Jan 2010 23:18:22 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4094</guid>
+		</item><item>
+		<title>How Togo got caught up in a foreign war</title>
+		<author>no-reply@theyorker.co.uk (Olivier Schotel)</author>
+		<link>http://www.theyorker.co.uk/news/features/4065</link>
+		<description><![CDATA[]]></description>
+		<pubDate>Thu, 28 Jan 2010 10:36:54 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4065</guid>
+		</item><item>
+		<title>New Term: New JCRC – Alcuin</title>
+		<author>no-reply@theyorker.co.uk (Harriet Jean Evans)</author>
+		<link>http://www.theyorker.co.uk/news/features/4072</link>
+		<description><![CDATA[As the New Year kicks off, the new JCRC elected at the end of last term begins to represent their students across campus.  Newly elected Alcuin Chair, Ollie Todd, spoke to the Yorker about his team this term.]]></description>
+		<pubDate>Wed, 27 Jan 2010 22:14:45 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4072</guid>
+		</item><item>
+		<title>The world's biggest threat</title>
+		<author>no-reply@theyorker.co.uk (Olivier Schotel)</author>
+		<link>http://www.theyorker.co.uk/news/features/4053</link>
+		<description><![CDATA[]]></description>
+		<pubDate>Wed, 27 Jan 2010 10:27:52 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/4053</guid>
+		</item><item>
+		<title>One Malaysia; Defined</title>
+		<author>no-reply@theyorker.co.uk (Chiifen Hiu)</author>
+		<link>http://www.theyorker.co.uk/news/features/3984</link>
+		<description><![CDATA[The slogan “One Malaysia” made a grand entrance early April last year in a speech given by Dato’ Seri Najib Tun Abdul Razak as Prime Minister of Malaysia. It sparked the glamorous idea of racial unity between the three main races in Malaysia: Malays, Chinese and Indians, and the illusive promise of a transparent and open government, with “People First. Performance Now.”]]></description>
+		<pubDate>Wed, 13 Jan 2010 17:41:11 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/3984</guid>
+		</item><item>
+		<title>Goodricke: Where the balls are</title>
+		<author>no-reply@theyorker.co.uk (Emily Boyd)</author>
+		<link>http://www.theyorker.co.uk/news/features/3956</link>
+		<description><![CDATA[Ever noticed those cog-covered spheres outside Goodricke? Ever wondered what they are doing there? Emily Boyd takes us through some of the more baffling aspects of campus architecture.]]></description>
+		<pubDate>Thu, 17 Dec 2009 11:55:22 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/3956</guid>
+		</item><item>
+		<title>Goodricke College JCRC 09/10 Election Results</title>
+		<author>no-reply@theyorker.co.uk (Chiifen Hiu)</author>
+		<link>http://www.theyorker.co.uk/news/features/3952</link>
+		<description><![CDATA[Goodricke College’s new JCRC has been revealed. Results were announced on Monday night in Yates, where spirits were both high and readily available. ]]></description>
+		<pubDate>Wed, 16 Dec 2009 07:38:38 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/features/3952</guid>
+		</item></channel></rss>

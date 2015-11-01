@@ -1,0 +1,232 @@
+<?xml version="1.0" ?>
+	<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+	<title>The Yorker - Football</title>
+	<link>http://www.theyorker.co.uk/feeds/football</link>
+	<atom:link href="http://www.theyorker.co.uk/feeds/football" rel="self" type="application/rss+xml" />
+	<description>All the news you need to know about from University of York's Campus!</description>
+	<language>en-gb</language>
+	<copyright>Copyright 2006-2015, The Yorker</copyright>
+	<category>News</category>
+	<pubDate>Wed, 23 Sep 2015 20:02:20 +0100</pubDate>
+	<lastBuildDate>Wed, 23 Sep 2015 20:02:20 +0100</lastBuildDate>
+	<docs>http://www.rssboard.org/rss-specification</docs>
+	<image>
+		<url>http://www.theyorker.co.uk/images/prototype/news/rss-uninews.jpg</url>
+		<width>126</width>
+		<height>126</height>
+		<title>The Yorker - Football</title>
+		<link>http://www.theyorker.co.uk/feeds/football</link>
+	</image>
+	<managingEditor>editor@theyorker.co.uk (Editor)</managingEditor>
+	<webMaster>webmaster@theyorker.co.uk (Webmaster)</webMaster><item>
+		<title>The end of an era?</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/football/8375</link>
+		<description><![CDATA[Alex Reid looks at whether the once ever-present appearance of English clubs in the later stages of the Champions League is set to become a thing of the past]]></description>
+		<pubDate>Wed, 18 Jan 2012 20:56:13 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8375</guid>
+		</item><item>
+		<title>Neil Warnock: The latest managerial martyr</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/football/8351</link>
+		<description><![CDATA[Craig Dobson looks at QPR's decision to sack Neil Warnock and replace him with Mark Hughes]]></description>
+		<pubDate>Mon, 16 Jan 2012 11:42:20 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8351</guid>
+		</item><item>
+		<title>Newcastle v QPR - Game of the Week Preview</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/football/8333</link>
+		<description><![CDATA[Andy Pakes previews this Sunday afternoon clash in the first edition of Game of the Week for 2012]]></description>
+		<pubDate>Fri, 13 Jan 2012 16:21:32 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8333</guid>
+		</item><item>
+		<title>My Sporting Hero – Wes Morgan</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/football/8321</link>
+		<description><![CDATA[Dave Hughes tells us about his sporting hero, Wes Morgan]]></description>
+		<pubDate>Wed, 11 Jan 2012 16:33:05 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8321</guid>
+		</item><item>
+		<title>Manchester United and the reserve game plan</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/football/8299</link>
+		<description><![CDATA[Craig Dobson looks at Manchester United's recent stutter against Blackburn Rovers and the weaknesses within their side]]></description>
+		<pubDate>Mon, 02 Jan 2012 15:06:48 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8299</guid>
+		</item><item>
+		<title>Top five lower league players who could be on the move this January</title>
+		<author>no-reply@theyorker.co.uk (James Tompkinson)</author>
+		<link>http://www.theyorker.co.uk/news/football/8296</link>
+		<description><![CDATA[James Tompkinson looks at players who could be on the move from the lower leagues this January Transfer Window]]></description>
+		<pubDate>Sun, 01 Jan 2012 15:02:43 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8296</guid>
+		</item><item>
+		<title>Fundamental changes required for England to be competitive once more</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/football/8294</link>
+		<description><![CDATA[Dave Hughes examines the fundamental problems with English football]]></description>
+		<pubDate>Sun, 01 Jan 2012 12:12:47 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8294</guid>
+		</item><item>
+		<title>Blackburn fans’ vicious protests are only serving to keep Steve Kean in a job</title>
+		<author>no-reply@theyorker.co.uk (James Tompkinson)</author>
+		<link>http://www.theyorker.co.uk/news/football/8283</link>
+		<description><![CDATA[Sports Editor James Tompkinson gives his take on the ongoing problems at Blackburn Rovers]]></description>
+		<pubDate>Tue, 27 Dec 2011 23:29:16 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8283</guid>
+		</item><item>
+		<title>Defrosting the idea of the winter break</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/football/8266</link>
+		<description><![CDATA[Craig Dobson looks at the arguments behind having a winter break in English football.]]></description>
+		<pubDate>Fri, 23 Dec 2011 11:38:01 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8266</guid>
+		</item><item>
+		<title>If only all footballers were like Darren Fletcher</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/football/8243</link>
+		<description><![CDATA[This week it has been revealed that Manchester United and Scotland midfielder Darren Fletcher is to take an extended break from football owing to his battle with the inflammatory bowel condition ulcerative colitis. His presence in modern football will be sorely missed, argues Alan Belmore.]]></description>
+		<pubDate>Tue, 20 Dec 2011 10:53:38 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8243</guid>
+		</item><item>
+		<title>Manchester City vs Arsenal Preview - Game of the Week</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/football/8229</link>
+		<description><![CDATA[Andy Pakes brings you another edition of Game of the Week, previewing the Sunday afternoon clash at the Etihad]]></description>
+		<pubDate>Fri, 16 Dec 2011 15:59:47 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8229</guid>
+		</item><item>
+		<title>A Tale of Two Cities</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/football/8215</link>
+		<description><![CDATA[Sam Holloway examines the differing fortunes of English clubs in the Champions League]]></description>
+		<pubDate>Wed, 14 Dec 2011 14:15:50 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8215</guid>
+		</item><item>
+		<title>AVB: Andre Versus Broadcasters</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/football/8201</link>
+		<description><![CDATA[Craig Dobson looks at why the Chelsea manager may have been fooling the media all along]]></description>
+		<pubDate>Mon, 12 Dec 2011 22:14:26 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8201</guid>
+		</item><item>
+		<title>Chelsea v Manchester City - Game of the Week Preview</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/football/8160</link>
+		<description><![CDATA[In our latest edition of the Game of the Week feature, Andy Pakes looks at Monday night's clash between Chelsea and Manchester City at Stamford Bridge]]></description>
+		<pubDate>Sun, 11 Dec 2011 15:21:02 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8160</guid>
+		</item><item>
+		<title>Out but not down? Manchester’s differing attitudes to Europa League football</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/football/8167</link>
+		<description><![CDATA[Craig Dobson looks at the different approaches that the two Manchester clubs are likely to take to the Europa League]]></description>
+		<pubDate>Sat, 10 Dec 2011 11:53:28 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8167</guid>
+		</item><item>
+		<title>York brought back down to earth from seventh heaven</title>
+		<author>no-reply@theyorker.co.uk (James Tompkinson)</author>
+		<link>http://www.theyorker.co.uk/news/football/8137</link>
+		<description><![CDATA[James Tompkinson reviews York City's last two matches, including a famous 7-0 victory against Kettering Town]]></description>
+		<pubDate>Wed, 07 Dec 2011 10:53:09 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8137</guid>
+		</item><item>
+		<title>Martin O’Neill: A case of déjà vu?</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/football/8123</link>
+		<description><![CDATA[Craig Dobson looks at both the task facing Martin O'Neill at Sunderland and why the job draws similarities with the past]]></description>
+		<pubDate>Tue, 06 Dec 2011 09:19:30 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8123</guid>
+		</item><item>
+		<title>The Great Goal-Line Technology Debate</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/football/8104</link>
+		<description><![CDATA[Sam Holloway and Anthony Quinn thrash out the arguments about whether goal-line technology should be used in football]]></description>
+		<pubDate>Sun, 04 Dec 2011 22:43:11 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8104</guid>
+		</item><item>
+		<title>Blackburn Rovers vs Swansea City - Game of the Week Preview</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/football/8075</link>
+		<description><![CDATA[Andy Pakes previews the clash at Ewood Park in the latest edition of the Game of the Week preview]]></description>
+		<pubDate>Fri, 02 Dec 2011 15:56:35 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8075</guid>
+		</item><item>
+		<title>Gary Speed: In memory of one of football’s good guys</title>
+		<author>no-reply@theyorker.co.uk (James Tompkinson)</author>
+		<link>http://www.theyorker.co.uk/news/football/8030</link>
+		<description><![CDATA[James Tompkinson on the sad death of Wales manager Gary Speed]]></description>
+		<pubDate>Mon, 28 Nov 2011 22:14:06 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/8030</guid>
+		</item><item>
+		<title>Stourbridge spark the magic of the FA Cup</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/football/7997</link>
+		<description><![CDATA[Dan Williams speaks of local pride and an FA Cup upset as his home town side Stourbridge FC knock Plymouth out of the FA Cup]]></description>
+		<pubDate>Sat, 26 Nov 2011 11:43:37 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/7997</guid>
+		</item><item>
+		<title>Do we really have a new England?</title>
+		<author>no-reply@theyorker.co.uk (James Tompkinson)</author>
+		<link>http://www.theyorker.co.uk/news/football/7990</link>
+		<description><![CDATA[Sports Editor James Tompkinson tries to pick an England side good enough to compete at next summer's European Championships without picking a single player who played in the 2010 World Cup]]></description>
+		<pubDate>Fri, 25 Nov 2011 22:18:21 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/7990</guid>
+		</item><item>
+		<title>Game of the Week Preview - Norwich City vs QPR</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/football/7984</link>
+		<description><![CDATA[Andy Pakes looks ahead to this weekend's clash between Norwich City and QPR at Carrow Road ]]></description>
+		<pubDate>Fri, 25 Nov 2011 15:15:27 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/7984</guid>
+		</item><item>
+		<title>Fabio’s Choice - The England Conundrum</title>
+		<author>no-reply@theyorker.co.uk (Guest Writer)</author>
+		<link>http://www.theyorker.co.uk/news/football/7951</link>
+		<description><![CDATA[Sam Holloway looks at the selection dilemma that Fabio Capello faces ahead of Euro 2012]]></description>
+		<pubDate>Mon, 21 Nov 2011 21:38:32 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/7951</guid>
+		</item><item>
+		<title>Can England succeed in Euro 2012? - The Yorker Sports Show</title>
+		<author>no-reply@theyorker.co.uk (James Tompkinson)</author>
+		<link>http://www.theyorker.co.uk/news/football/7937</link>
+		<description><![CDATA[James Tompkinson, Sam Holloway and Andy Pakes look at England's chances in Euro 2012 on this week's Yorker Sports Show]]></description>
+		<pubDate>Sun, 20 Nov 2011 17:01:11 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/7937</guid>
+		</item><item>
+		<title>Game of the Week Preview – Chelsea vs Liverpool</title>
+		<author>no-reply@theyorker.co.uk (Guest Writer)</author>
+		<link>http://www.theyorker.co.uk/news/football/7929</link>
+		<description><![CDATA[Andy Pakes brings us another 'Game of the Week' preview as he looks at Chelsea vs Liverpool this coming Sunday. Yorker Sports writers again prepare to look very foolish as our predictions are in...]]></description>
+		<pubDate>Sat, 19 Nov 2011 18:22:05 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/7929</guid>
+		</item><item>
+		<title>The Yorker Sports Show - Episode 3</title>
+		<author>no-reply@theyorker.co.uk (James Tompkinson)</author>
+		<link>http://www.theyorker.co.uk/news/football/7925</link>
+		<description><![CDATA[James Tompkinson, Andy Pakes and Sam Holloway talk about Sepp Blatter and those infamous comments on this week's Yorker Sports Show]]></description>
+		<pubDate>Fri, 18 Nov 2011 20:59:23 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/7925</guid>
+		</item><item>
+		<title>Why you should never shake Sepp Blatter’s hand</title>
+		<author>no-reply@theyorker.co.uk (James Tompkinson)</author>
+		<link>http://www.theyorker.co.uk/news/football/7900</link>
+		<description><![CDATA[James Tompkinson looks at the implications behind Sepp Blatter's comments about racism in football]]></description>
+		<pubDate>Wed, 16 Nov 2011 23:03:43 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/7900</guid>
+		</item><item>
+		<title>English determination enough to overpower Spain</title>
+		<author>no-reply@theyorker.co.uk (Stephen Puddicombe)</author>
+		<link>http://www.theyorker.co.uk/news/football/7887</link>
+		<description><![CDATA[Steve Puddicombe reflects on England's recent encounter against the World and European Champions.]]></description>
+		<pubDate>Tue, 15 Nov 2011 14:25:23 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/7887</guid>
+		</item><item>
+		<title>Poppy Politics? FIFA vs FA</title>
+		<author>no-reply@theyorker.co.uk (Guest Writer)</author>
+		<link>http://www.theyorker.co.uk/news/football/7856</link>
+		<description><![CDATA[Andy Pakes looks at the recent battle between FIFA and the FA over the issue of poppies on England shirts]]></description>
+		<pubDate>Sun, 13 Nov 2011 14:04:02 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/football/7856</guid>
+		</item></channel></rss>

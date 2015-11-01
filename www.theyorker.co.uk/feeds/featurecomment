@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+	<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+	<title>The Yorker - Feature/Comment</title>
+	<link>http://www.theyorker.co.uk/feeds/featurecomment</link>
+	<atom:link href="http://www.theyorker.co.uk/feeds/featurecomment" rel="self" type="application/rss+xml" />
+	<description>All the news you need to know about from University of York's Campus!</description>
+	<language>en-gb</language>
+	<copyright>Copyright 2006-2015, The Yorker</copyright>
+	<category>News</category>
+	<pubDate>Wed, 23 Sep 2015 20:02:20 +0100</pubDate>
+	<lastBuildDate>Wed, 23 Sep 2015 20:02:20 +0100</lastBuildDate>
+	<docs>http://www.rssboard.org/rss-specification</docs>
+	<image>
+		<url>http://www.theyorker.co.uk/images/prototype/news/rss-uninews.jpg</url>
+		<width>126</width>
+		<height>126</height>
+		<title>The Yorker - Feature/Comment</title>
+		<link>http://www.theyorker.co.uk/feeds/featurecomment</link>
+	</image>
+	<managingEditor>editor@theyorker.co.uk (Editor)</managingEditor>
+	<webMaster>webmaster@theyorker.co.uk (Webmaster)</webMaster><item>
+		<title>Asfahani wins second term as York Sport president</title>
+		<author>no-reply@theyorker.co.uk (Matt Cooke)</author>
+		<link>http://www.theyorker.co.uk/news/featurecomment/6663</link>
+		<description><![CDATA[Matt Cooke reviews the result of the York Sport President election.]]></description>
+		<pubDate>Fri, 04 Mar 2011 21:56:25 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/featurecomment/6663</guid>
+		</item><item>
+		<title>White Rose Varsity: summary</title>
+		<author>no-reply@theyorker.co.uk (Aimee Howarth)</author>
+		<link>http://www.theyorker.co.uk/news/featurecomment/6246</link>
+		<description><![CDATA[Aimee Howarth looks back at the first White Rose Varsity weekend between York and Hull]]></description>
+		<pubDate>Sun, 27 Feb 2011 20:05:44 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/featurecomment/6246</guid>
+		</item><item>
+		<title>White Rose Varsity: Preview</title>
+		<author>no-reply@theyorker.co.uk (Matt Cooke)</author>
+		<link>http://www.theyorker.co.uk/news/featurecomment/6590</link>
+		<description><![CDATA[Matt Cooke previews this weekend's white rose varsity tournament against Hull]]></description>
+		<pubDate>Thu, 24 Feb 2011 21:49:39 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/featurecomment/6590</guid>
+		</item><item>
+		<title>Sports President Elections: Introducing the incumbent... Sam Asfahani </title>
+		<author>no-reply@theyorker.co.uk (James Tompkinson)</author>
+		<link>http://www.theyorker.co.uk/news/featurecomment/6569</link>
+		<description><![CDATA[James Tompkinson talks to YUSU Sports President candiate Sam Asfahani ]]></description>
+		<pubDate>Wed, 23 Feb 2011 00:55:45 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/featurecomment/6569</guid>
+		</item><item>
+		<title>Sports President Elections: Introducing the challenger... Ben McGladdery</title>
+		<author>no-reply@theyorker.co.uk (James Tompkinson)</author>
+		<link>http://www.theyorker.co.uk/news/featurecomment/6558</link>
+		<description><![CDATA[James Tompkinson talks to YUSU Sports Presidential Candidate Ben McGladdery  ]]></description>
+		<pubDate>Mon, 21 Feb 2011 21:32:40 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/featurecomment/6558</guid>
+		</item><item>
+		<title>Ashes blog: England have work to do after Aussies square Ashes series in Perth</title>
+		<author>no-reply@theyorker.co.uk (James Tompkinson)</author>
+		<link>http://www.theyorker.co.uk/news/featurecomment/6130</link>
+		<description><![CDATA[James Tompkinson tells of England failings in Perth]]></description>
+		<pubDate>Sun, 19 Dec 2010 18:31:50 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/featurecomment/6130</guid>
+		</item><item>
+		<title>Ashes blog: Perth day three</title>
+		<author>no-reply@theyorker.co.uk (James Southern)</author>
+		<link>http://www.theyorker.co.uk/news/featurecomment/6127</link>
+		<description><![CDATA[James Southern tells tales of English woes in Perth]]></description>
+		<pubDate>Sat, 18 Dec 2010 21:57:33 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/featurecomment/6127</guid>
+		</item><item>
+		<title>Ashes blog: Perth day 1 and day 2</title>
+		<author>no-reply@theyorker.co.uk (Guest Writer)</author>
+		<link>http://www.theyorker.co.uk/news/featurecomment/6121</link>
+		<description><![CDATA[Mylo Scurr is at work reporting on the cricket from a land down under]]></description>
+		<pubDate>Fri, 17 Dec 2010 17:16:44 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/featurecomment/6121</guid>
+		</item><item>
+		<title>Ashes Blog – Adelaide day 3</title>
+		<author>no-reply@theyorker.co.uk (James Tompkinson)</author>
+		<link>http://www.theyorker.co.uk/news/featurecomment/6014</link>
+		<description><![CDATA[James Tompkinson reports on day three of the second Ashes test]]></description>
+		<pubDate>Sun, 05 Dec 2010 16:15:30 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/featurecomment/6014</guid>
+		</item><item>
+		<title>Ashes blog - Adelaide day 1</title>
+		<author>no-reply@theyorker.co.uk (Stephen Puddicombe)</author>
+		<link>http://www.theyorker.co.uk/news/featurecomment/6008</link>
+		<description><![CDATA[Steve Puddicombe on a confident start to the second test from England]]></description>
+		<pubDate>Sat, 04 Dec 2010 17:20:00 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/featurecomment/6008</guid>
+		</item><item>
+		<title>Ashes Blog – Brisbane day 5</title>
+		<author>no-reply@theyorker.co.uk (James Tompkinson)</author>
+		<link>http://www.theyorker.co.uk/news/featurecomment/5938</link>
+		<description><![CDATA[James Tompkinson rounds off the final day of the first test in Brisbane with a lovely blog]]></description>
+		<pubDate>Mon, 29 Nov 2010 14:08:07 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/featurecomment/5938</guid>
+		</item></channel></rss>

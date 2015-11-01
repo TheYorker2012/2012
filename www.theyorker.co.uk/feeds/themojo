@@ -1,0 +1,232 @@
+<?xml version="1.0" ?>
+	<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+	<title>The Yorker - The Mojo</title>
+	<link>http://www.theyorker.co.uk/feeds/themojo</link>
+	<atom:link href="http://www.theyorker.co.uk/feeds/themojo" rel="self" type="application/rss+xml" />
+	<description>All the news you need to know about from University of York's Campus!</description>
+	<language>en-gb</language>
+	<copyright>Copyright 2006-2015, The Yorker</copyright>
+	<category>News</category>
+	<pubDate>Wed, 23 Sep 2015 20:02:16 +0100</pubDate>
+	<lastBuildDate>Wed, 23 Sep 2015 20:02:16 +0100</lastBuildDate>
+	<docs>http://www.rssboard.org/rss-specification</docs>
+	<image>
+		<url>http://www.theyorker.co.uk/images/prototype/news/rss-uninews.jpg</url>
+		<width>126</width>
+		<height>126</height>
+		<title>The Yorker - The Mojo</title>
+		<link>http://www.theyorker.co.uk/feeds/themojo</link>
+	</image>
+	<managingEditor>editor@theyorker.co.uk (Editor)</managingEditor>
+	<webMaster>webmaster@theyorker.co.uk (Webmaster)</webMaster><item>
+		<title>The dating game 2012</title>
+		<author>no-reply@theyorker.co.uk (Laura Reynolds)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/8349</link>
+		<description><![CDATA[As we enter a new year, Laura Reynolds looks at how the dating game differs from previous generations.]]></description>
+		<pubDate>Wed, 18 Jan 2012 06:23:51 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/8349</guid>
+		</item><item>
+		<title>A single Christmas</title>
+		<author>no-reply@theyorker.co.uk (Laura Reynolds)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/8265</link>
+		<description><![CDATA[Laura Reynolds looks at the freedoms of festive singledom]]></description>
+		<pubDate>Wed, 21 Dec 2011 11:29:15 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/8265</guid>
+		</item><item>
+		<title>The Advent Calendar: Day 6</title>
+		<author>no-reply@theyorker.co.uk (Jason Rose)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/8125</link>
+		<description><![CDATA[Join Jason Rose for a peek behind today's door.]]></description>
+		<pubDate>Tue, 06 Dec 2011 02:31:27 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/8125</guid>
+		</item><item>
+		<title>Going the distance</title>
+		<author>no-reply@theyorker.co.uk (Default Name)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/8060</link>
+		<description><![CDATA[Lauren Tabbron writes about the difficulties of spending Christmas away from a loved one.]]></description>
+		<pubDate>Wed, 30 Nov 2011 10:40:49 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/8060</guid>
+		</item><item>
+		<title>Flatmate vs. bedmate</title>
+		<author>no-reply@theyorker.co.uk (Laura Reynolds)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/8047</link>
+		<description><![CDATA[Laura Reynolds looks at how to make your friendship survive the ups and downs of romance]]></description>
+		<pubDate>Wed, 30 Nov 2011 00:15:23 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/8047</guid>
+		</item><item>
+		<title>Relight my fire?</title>
+		<author>no-reply@theyorker.co.uk (Laura Reynolds)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/7846</link>
+		<description><![CDATA[Breaking up is the new getting together, don’t cha know? (But only if you’re getting back together afterwards. Otherwise it sucks)]]></description>
+		<pubDate>Wed, 09 Nov 2011 17:49:57 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/7846</guid>
+		</item><item>
+		<title>The Freshers' Week Gossip</title>
+		<author>no-reply@theyorker.co.uk (Guest Writer)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/7616</link>
+		<description><![CDATA[Think you've missed out on some of the action? Don't worry as we give you the lowdown on what will undoubtedly happen this freshers' week]]></description>
+		<pubDate>Wed, 12 Oct 2011 01:44:42 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/7616</guid>
+		</item><item>
+		<title>Dating with a difference-Part 2</title>
+		<author>no-reply@theyorker.co.uk (Laura Reynolds)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/7461</link>
+		<description><![CDATA[Laura Reynolds offers some more unique date ideas]]></description>
+		<pubDate>Wed, 20 Jul 2011 04:16:35 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/7461</guid>
+		</item><item>
+		<title>Dating with a difference-Part 1</title>
+		<author>no-reply@theyorker.co.uk (Laura Reynolds)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/7445</link>
+		<description><![CDATA[Laura Reynolds has some ideas for a more unusual date]]></description>
+		<pubDate>Wed, 13 Jul 2011 04:40:28 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/7445</guid>
+		</item><item>
+		<title>Summer loving</title>
+		<author>no-reply@theyorker.co.uk (Laura Reynolds)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/7422</link>
+		<description><![CDATA[Laura Reynolds has the lowdown on those summer nights]]></description>
+		<pubDate>Wed, 06 Jul 2011 04:14:30 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/7422</guid>
+		</item><item>
+		<title>Keep your relationship alive this summer</title>
+		<author>no-reply@theyorker.co.uk (Guest Writer)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/7359</link>
+		<description><![CDATA[Worried you'll drift apart this summer? Three simple rules to make sure your relationship survives three months being apart.]]></description>
+		<pubDate>Wed, 22 Jun 2011 11:32:17 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/7359</guid>
+		</item><item>
+		<title>The Ex Files</title>
+		<author>no-reply@theyorker.co.uk (Laura Reynolds)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/7306</link>
+		<description><![CDATA[Laura Reynolds explores the etiquette of encountering the ex.]]></description>
+		<pubDate>Wed, 15 Jun 2011 02:31:56 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/7306</guid>
+		</item><item>
+		<title>From Paris to Berlin</title>
+		<author>no-reply@theyorker.co.uk (Laura Reynolds)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/7137</link>
+		<description><![CDATA[Laura Reynolds explores the pros and cons of long distance relationships]]></description>
+		<pubDate>Wed, 25 May 2011 02:32:13 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/7137</guid>
+		</item><item>
+		<title>Just good friends?</title>
+		<author>no-reply@theyorker.co.uk (Laura Reynolds)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/7082</link>
+		<description><![CDATA[Laura Reynolds looks at whether it is ever truly possible to stay friends with an ex...]]></description>
+		<pubDate>Wed, 18 May 2011 02:01:31 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/7082</guid>
+		</item><item>
+		<title>The single life</title>
+		<author>no-reply@theyorker.co.uk (Laura Reynolds)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/7011</link>
+		<description><![CDATA[Laura Reynolds explores the positives of being single]]></description>
+		<pubDate>Wed, 11 May 2011 15:49:04 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/7011</guid>
+		</item><item>
+		<title>5 anti-romantic things to do in York</title>
+		<author>no-reply@theyorker.co.uk (Bella)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/6944</link>
+		<description><![CDATA[Columnist Bella has had enough of Royal Wedding induced romance...it's time to get a bit silly.]]></description>
+		<pubDate>Wed, 04 May 2011 01:02:26 +0100</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/6944</guid>
+		</item><item>
+		<title>The Dating Game - Austen Style</title>
+		<author>no-reply@theyorker.co.uk (Laura Reynolds)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/6649</link>
+		<description><![CDATA[Has the move from 'courting' to casual dating cost us? Laura Reynolds compares the dating game, from Austen to now.]]></description>
+		<pubDate>Wed, 02 Mar 2011 00:30:56 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/6649</guid>
+		</item><item>
+		<title>Getting naked</title>
+		<author>no-reply@theyorker.co.uk (Bella)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/6573</link>
+		<description><![CDATA[Lifestyle columnist Bella finds that no make-up can be a passion killer...]]></description>
+		<pubDate>Wed, 23 Feb 2011 00:07:13 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/6573</guid>
+		</item><item>
+		<title>Better to be lonely than heartbroken?</title>
+		<author>no-reply@theyorker.co.uk (Guest Writer)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/6498</link>
+		<description><![CDATA[Katy Allanby considers the impact of a break-up upon someone.]]></description>
+		<pubDate>Wed, 16 Feb 2011 00:21:29 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/6498</guid>
+		</item><item>
+		<title>Baby blues</title>
+		<author>no-reply@theyorker.co.uk (Contessa and Vanessa)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/6365</link>
+		<description><![CDATA[Pitter patter of tiny feet? Not if Contessa and Vanessa have anything to say about it.]]></description>
+		<pubDate>Wed, 02 Feb 2011 00:15:09 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/6365</guid>
+		</item><item>
+		<title>A response to Mr Hitchens</title>
+		<author>no-reply@theyorker.co.uk (Anne Onymous)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/6317</link>
+		<description><![CDATA[New columnist Anne Onymous has a few things to say about a certain Alex Hitchens article...]]></description>
+		<pubDate>Wed, 26 Jan 2011 11:14:02 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/6317</guid>
+		</item><item>
+		<title>Sleeping with a Flatmate</title>
+		<author>no-reply@theyorker.co.uk (Guest Writer)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/5776</link>
+		<description><![CDATA[The dos and don'ts of sleeping with a flatmate.]]></description>
+		<pubDate>Sun, 23 Jan 2011 15:56:23 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/5776</guid>
+		</item><item>
+		<title>Friends vs boyfriends</title>
+		<author>no-reply@theyorker.co.uk (Contessa and Vanessa)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/6252</link>
+		<description><![CDATA[Contessa and Vanessa look at the problems of jealous friends.]]></description>
+		<pubDate>Wed, 19 Jan 2011 18:18:25 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/6252</guid>
+		</item><item>
+		<title>Does he like me?</title>
+		<author>no-reply@theyorker.co.uk (Contessa and Vanessa)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/6200</link>
+		<description><![CDATA[Contessa and Vanessa - probably the best agony aunts in York. Maybe.]]></description>
+		<pubDate>Wed, 05 Jan 2011 00:03:53 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/6200</guid>
+		</item><item>
+		<title>Contessa and Vanessa Christmas special</title>
+		<author>no-reply@theyorker.co.uk (Contessa and Vanessa)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/6143</link>
+		<description><![CDATA[Contessa and Vanessa are back with a Christmas themed problem!]]></description>
+		<pubDate>Wed, 22 Dec 2010 00:01:04 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/6143</guid>
+		</item><item>
+		<title>Internet dating at uni</title>
+		<author>no-reply@theyorker.co.uk (Guest Writer)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/6101</link>
+		<description><![CDATA[Raz Elgar asks whether Internet dating deserves its bad rep...]]></description>
+		<pubDate>Wed, 15 Dec 2010 15:48:11 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/6101</guid>
+		</item><item>
+		<title>Three's Company</title>
+		<author>no-reply@theyorker.co.uk (Contessa and Vanessa)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/6037</link>
+		<description><![CDATA[Contessa and Vanessa are back to solve your problems.]]></description>
+		<pubDate>Wed, 08 Dec 2010 00:01:24 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/6037</guid>
+		</item><item>
+		<title>My Chemical Romance</title>
+		<author>no-reply@theyorker.co.uk (Cat Bennett)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/5962</link>
+		<description><![CDATA[Catherine Bennett talks you through the chemistry of love.]]></description>
+		<pubDate>Wed, 01 Dec 2010 00:01:55 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/5962</guid>
+		</item><item>
+		<title>The Green Eyed Monster</title>
+		<author>no-reply@theyorker.co.uk (Contessa and Vanessa)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/5870</link>
+		<description><![CDATA[Contessa and Vanessa are at it again, helping solve your problems. Maybe.]]></description>
+		<pubDate>Wed, 24 Nov 2010 00:02:07 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/5870</guid>
+		</item><item>
+		<title>Wanted: Mr Big</title>
+		<author>no-reply@theyorker.co.uk (Contessa and Vanessa)</author>
+		<link>http://www.theyorker.co.uk/news/themojo/5696</link>
+		<description><![CDATA[Does height really make a difference? Contessa and Vanessa investigate.]]></description>
+		<pubDate>Wed, 10 Nov 2010 00:01:08 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/themojo/5696</guid>
+		</item></channel></rss>

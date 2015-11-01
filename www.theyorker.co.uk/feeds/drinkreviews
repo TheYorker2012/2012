@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+	<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+	<title>The Yorker - Drink Reviews</title>
+	<link>http://www.theyorker.co.uk/feeds/drinkreviews</link>
+	<atom:link href="http://www.theyorker.co.uk/feeds/drinkreviews" rel="self" type="application/rss+xml" />
+	<description>All the news you need to know about from University of York's Campus!</description>
+	<language>en-gb</language>
+	<copyright>Copyright 2006-2015, The Yorker</copyright>
+	<category>News</category>
+	<pubDate>Wed, 23 Sep 2015 20:02:22 +0100</pubDate>
+	<lastBuildDate>Wed, 23 Sep 2015 20:02:22 +0100</lastBuildDate>
+	<docs>http://www.rssboard.org/rss-specification</docs>
+	<image>
+		<url>http://www.theyorker.co.uk/images/prototype/news/rss-uninews.jpg</url>
+		<width>126</width>
+		<height>126</height>
+		<title>The Yorker - Drink Reviews</title>
+		<link>http://www.theyorker.co.uk/feeds/drinkreviews</link>
+	</image>
+	<managingEditor>editor@theyorker.co.uk (Editor)</managingEditor>
+	<webMaster>webmaster@theyorker.co.uk (Webmaster)</webMaster><item>
+		<title></title>
+		<author>no-reply@theyorker.co.uk (Jo Shelley)</author>
+		<link>http://www.theyorker.co.uk/reviews/drinkreviews/the_golden_slipper/675</link>
+		<description><![CDATA[]]></description>
+		<pubDate>Wed, 31 Oct 2007 05:10:40 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/reviews/drinkreviews/the_golden_slipper/675</guid>
+		</item><item>
+		<title></title>
+		<author>no-reply@theyorker.co.uk (Jo Shelley)</author>
+		<link>http://www.theyorker.co.uk/reviews/drinkreviews/the_last_drop_inn/672</link>
+		<description><![CDATA[]]></description>
+		<pubDate>Wed, 31 Oct 2007 05:06:36 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/reviews/drinkreviews/the_last_drop_inn/672</guid>
+		</item><item>
+		<title></title>
+		<author>no-reply@theyorker.co.uk (Samuel Whittaker)</author>
+		<link>http://www.theyorker.co.uk/reviews/drinkreviews/the_maltings/663</link>
+		<description><![CDATA[]]></description>
+		<pubDate>Tue, 30 Oct 2007 20:15:46 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/reviews/drinkreviews/the_maltings/663</guid>
+		</item></channel></rss>

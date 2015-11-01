@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+	<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+	<title>The Yorker - Varsity Match Reports</title>
+	<link>http://www.theyorker.co.uk/feeds/varsitymatchreports</link>
+	<atom:link href="http://www.theyorker.co.uk/feeds/varsitymatchreports" rel="self" type="application/rss+xml" />
+	<description>All the news you need to know about from University of York's Campus!</description>
+	<language>en-gb</language>
+	<copyright>Copyright 2006-2015, The Yorker</copyright>
+	<category>News</category>
+	<pubDate>Wed, 23 Sep 2015 20:02:15 +0100</pubDate>
+	<lastBuildDate>Wed, 23 Sep 2015 20:02:15 +0100</lastBuildDate>
+	<docs>http://www.rssboard.org/rss-specification</docs>
+	<image>
+		<url>http://www.theyorker.co.uk/images/prototype/news/rss-uninews.jpg</url>
+		<width>126</width>
+		<height>126</height>
+		<title>The Yorker - Varsity Match Reports</title>
+		<link>http://www.theyorker.co.uk/feeds/varsitymatchreports</link>
+	</image>
+	<managingEditor>editor@theyorker.co.uk (Editor)</managingEditor>
+	<webMaster>webmaster@theyorker.co.uk (Webmaster)</webMaster><item>
+		<title>York swim to victory in Varsity gala</title>
+		<author>no-reply@theyorker.co.uk (Tom Fitz-Hugh)</author>
+		<link>http://www.theyorker.co.uk/news/varsitymatchreports/4376</link>
+		<description><![CDATA[York dominated the varsity swimming from the off, winning comfortably 67 - 43 to take an eighteen point overall lead into tomorrow's fixtures.]]></description>
+		<pubDate>Sun, 28 Feb 2010 08:33:50 +0000</pubDate>
+		<guid isPermaLink='true'>http://www.theyorker.co.uk/news/varsitymatchreports/4376</guid>
+		</item></channel></rss>
