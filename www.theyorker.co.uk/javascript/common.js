@@ -55,6 +55,46 @@ function hideFeedback() {
 onLoadFunctions.push(hideFeedback);
 // ** END feedback form code **
 
+function showFeedback() {
+	var showFeedbackObj = document.getElementById('ShowFeedback');
+	var feedbackObj = document.getElementById('FeedbackForm');
+	showFeedbackObj.style.display = 'none';
+	feedbackObj.style.display = 'block';
+
+	return false;
+}
+
+function jumpToReporterPage() {
+	var archiveRegex = /(^.*news\/archive\/).*$/g;
+	var urlArray = archiveRegex.exec(document.location.href);
+	if (!urlArray || urlArray.length < 2) {
+		alert("This feature is not accessible from this page");
+	} else {
+		var archiveBaseUrl = urlArray[1];
+		var archiveReporterDropdown = document.getElementById('archive_reporter').value;
+		var archiveSectionDropdown = document.getElementById('archive_section').value;
+		
+		var newUrl;
+		if (archiveReporterDropdown != "all" && archiveSectionDropdown == "all") {
+			newUrl = archiveBaseUrl + 'reporter/' + archiveReporterDropdown + '/page/index.html';
+		} else if (archiveReporterDropdown == "all" && archiveSectionDropdown != "all") {
+			newUrl = archiveBaseUrl + 'section/' + archiveSectionDropdown + '/page/index.html';
+		} else {
+			alert("Please select either a reporter or a section");
+			return false;
+		}
+		
+		document.location.href = newUrl;
+	}
+	return false;
+}
+
+function fixReporterDropdown() {
+	var findArticlesButton = document.getElementById('archive_search');
+	findArticlesButton.onclick = jumpToReporterPage;
+}
+
+onLoadFunctions.push(fixReporterDropdown);
 
 // ** BEGIN innerText/textContent decision **
 
