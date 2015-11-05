@@ -1,0 +1,509 @@
+
+/* -- 	BEGIN CALENDAR VIEW CLASSES -- */
+/* These are used by the calendar system. It would probably be a bad idea to use these for anything outside of that subsystem. */
+
+#calviewContainer {
+	background-color: #ffffff;
+	padding: 0px;
+}
+
+#calviewLeftBar {
+	display: none;
+	padding: 5px;
+	margin: 0px;
+	width: 200px;
+	background-color: #dddddd;
+	border: 1px solid #cccccc;
+}
+
+#calviewCalendarWindow {
+	width: 650px;
+	padding: 0px;
+	margin: 0px;
+	background-color: #ffffff;	
+}
+
+#calviewCalTable {
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+	border: none;
+	background-color: #ffffff;
+	border-top: 1px solid #dddddd;
+	border-left: 1px solid #cccccc;
+}
+
+#calviewCalTable td {
+	width: 100px;
+	margin: 0px;
+	padding: 0px;
+	border-bottom: 1px solid #cccccc;
+	border-right: 1px solid #dddddd;
+}
+.calviewCalHeadingCell {
+	text-align: center;
+	font-weight: bold;
+	font-size: 11px;
+	height: 20px;
+	background-color: #f9f9f9;
+	border-bottom: 1px solid #cccccc;
+	margin: 0px;
+}
+.calviewCalEventsCell {
+	height: 500px;
+	vertical-align: top;
+	background-color: #f0f0f0;
+	border-bottom: 1px solid #cccccc;
+	margin: 0px;
+	padding: 0px;
+}
+.calviewIndEventBox {
+	border-top: 2px solid #08c0ef;
+	border-bottom: 2px solid #08c0ef;
+	background-color: #fafafa;
+	padding: 5px;
+	width: 100px;
+	font-size: 9px;
+	margin: 0px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.calviewIndEventBoxHL {
+	border: 2px solid #bb3300;
+	background-color: #ffffff;
+	padding: 2px;
+	font-size: 9px;
+	margin: 1px;
+
+}
+.calviewIndEventBox .calviewCloseButton {
+	margin-top: -2px;
+	margin-right: -2px;
+	margin-bottom: 2px;
+	margin-left: 2px;
+	float: right;
+	background-color: #bb0000;
+	color: #ffffff;
+	padding: 2px;
+	font-weight: bold;
+}
+.calviewIndEventBox .calviewExpandButton {
+	margin-top: -2px;
+	margin-right: -2px;
+	margin-bottom: 2px;
+	margin-left: 2px;
+	float: right;
+	background-color: #00bb00;
+	color: #ffffff;
+	padding: 2px;
+	display: block;
+	font-weight: bold;
+}
+.calviewIndEventBox .calviewMenuButton {
+	margin-top: -2px;
+	margin-right: -2px;
+	margin-bottom: 2px;
+	margin-left: 2px;
+	float: right;
+	background-color: #ddbb00;
+	color: #ffffff;
+	padding: 2px;
+	font-weight: bold;
+}
+
+.calviewIndEventBox2 {
+	border: none;
+	border-bottom: 1px solid #999;
+	background-color: #eee;
+	padding: 0px;
+	width: 50%;
+	margin: 0px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	text-align: left;
+}
+
+#calviewEventMenu {
+	display: none;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	z-index: 100;
+	width: 154px;
+	background-color: #ffffff;
+	border: 1px solid #000000;
+	padding: 1px;
+}
+
+#calviewEventMenu ul {
+	display: block;
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+#calviewEventMenu ul li {
+	padding: 0px;
+}
+#calviewEventMenu ul .calviewEMBP {
+	border-bottom: 1px solid #ffaa60;
+}
+#calviewEventMenu ul li:hover {
+
+}
+#calviewEventMenu ul li a {
+	display: block;
+	text-decoration: none;
+	font-size: 11px;
+	color: #ff6a00;
+	background-color: #fff;
+	padding: 2px;
+	margin: 2px;
+}
+#calviewEventMenu ul li a:hover {
+	color: #ffffff;
+	background-color: #ff6a00;
+}
+
+.calviewEBCSpecialDayHeading {
+	text-align: center;
+	font-size: 10px;
+	background-color: #f9f9f9;
+	border-bottom: 1px solid #cccccc;
+	margin: 0px;
+	padding: 2px;
+}
+
+.calviewTimeSpacerG {
+	padding: 2px;
+	margin: 0px;
+	margin-left: 2px;
+	margin-right: 2px;
+	border: none;
+	border-top: 1px solid #7d9a7d;
+	border-bottom: 1px solid #7d9a7d;
+	background-color: #ddffdd;
+	font-size: 9px;	
+	text-align: center;
+	color: #005500;
+}
+.calviewTimeSpacerR {
+	padding: 2px;
+	margin: 0px;
+	margin-left: 2px;
+	margin-right: 2px;
+	border: none;
+	border-top: 1px solid #9a7d7d;
+	border-bottom: 1px solid #9a7d7d;
+	background-color: #ffdddd;
+	font-size: 9px;	
+	text-align: center;
+	color: #005500;
+}
+.calviewTimeSpacerGrey {
+	padding: 2px;
+	margin: 0px;
+	margin-left: 2px;
+	margin-right: 2px;
+	border: none;
+	border-top: 1px solid #9a9a9a;
+	border-bottom: 1px solid #9a9a9a;
+	background-color: #ffffff;
+	font-size: 9px;	
+	text-align: center;
+	color: #444444;
+}
+
+a.CalendarFilter {
+	float: left;
+	min-width: 40px;
+	text-align: center;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-right: 10px;
+	border: 1px #999 solid;
+	color: white;
+}
+a.CalendarFilter.Deselected {
+	color: #999;
+}
+
+a.CalendarButtons {
+	float: right;
+	margin-left: 10px;
+}
+
+table#cal_toolbox_info {
+	margin: 0px 0px 0px 0px;
+	padding: 10px;
+	border: none;
+	padding-bottom: 0px;
+}
+
+table#cal_toolbox_info ul {
+	margin: 0px;
+	text-align: right;
+}
+
+div.TodoBox {
+	margin-left: 10px;
+}
+/* -- 	END LISTINGS CALENDAR VIEW CLASSES -- */
+
+/* for event edit form */
+fieldset.inline-checks label {
+/* 		border: thin solid black; */
+	float: left;
+	width: 50px;
+	clear: none;
+}
+
+/* for minicalendar (recurrence preview) */
+table.recur-cal.cal-text {
+	text-align: center;
+	width: 100%;
+	border: 1px solid #A0A0A0;
+	border-collapse: collapse;
+}
+
+table.recur-cal th {
+	background-color: #F4F4F4;
+	border: 1px solid #A0A0A0;
+	color: #606060;
+}
+
+table.recur-cal th.term {
+	background-color: #EEEEEE;
+	color: #404040;
+}
+
+table.recur-cal td {
+	background-color: #FFFCBA;
+}
+table.recur-cal.allclick td {
+	cursor: pointer;
+}
+table.recur-cal td.we {
+	background-color: #EFECAA;
+}
+table.recur-cal.cal-text td a {
+	color: #000000;
+	font-weight: bold;
+}
+
+table.recur-cal td.pa {
+	background-color: #EEEEEE;
+}
+table.recur-cal td.pa.we {
+	background-color: #DEDEDE;
+}
+table.recur-cal td.pa.ev {
+	background-color: #DADADA;
+}
+table.recur-cal td.pa.ev.we {
+	background-color: #CACACA;
+}
+
+table.recur-cal td.ev {
+	background-color: #FFF980;
+}
+table.recur-cal td.ev.we {
+	background-color: #EFE970;
+}
+
+table.recur-cal td.sel {
+	border: 1px solid #404040;
+	background-color: #20C1F0;
+}
+table.recur-cal td.we.sel {
+	background-color: #10B1E0;
+}
+table.recur-cal td.ev.sel {
+	background-color: #38A0F0;
+}
+table.recur-cal td.ev.we.sel {
+	background-color: #2890E0;
+}
+
+table.recur-cal td.exc,
+table.recur-cal td.we.exc,
+table.recur-cal td.ev.exc,
+table.recur-cal td.ev.we.exc
+{					/*#FFFCBA*/
+	border: none;
+	background-color: #F0D1A0;
+}
+table.recur-cal.cal-text td.exc,
+table.recur-cal.cal-text td.we.exc,
+table.recur-cal.cal-text td.ev.exc,
+table.recur-cal.cal-text td.ev.we.exc
+{
+	text-decoration: line-through;
+}
+
+table.recur-cal td.inc {
+	border: 1px solid #404040;
+	background-color: #40F190;
+}
+table.recur-cal td.we.inc {
+	background-color: #30E180;
+}
+table.recur-cal td.ev.inc {
+	background-color: #58D090;
+}
+table.recur-cal td.ev.we.inc {
+	background-color: #48C080;
+}
+
+
+table.recur-cal td.sel.sta {
+	border: 2px solid #000000;
+	background-color: #FF6A00;
+}
+table.recur-cal td.ev.sel.sta {
+	background-color: #FF6A00;
+}
+
+/* today */
+table.recur-cal td.tod {
+	border: 2px solid #808080;
+}
+/* existing events */
+table.recur-cal td.exi {
+	font-weight: bold;
+}
+
+/* draft events */
+table.recur-cal td.dra,
+table.recur-cal td.pa.dra {
+	background-color: #00F000;
+}
+table.recur-cal td.ev.dra,
+table.recur-cal td.pa.ev.dra,
+table.recur-cal td.pa.we.dra,
+table.recur-cal td.we.dra {
+	background-color: #00D000;
+}
+table.recur-cal td.pa.ev.we.dra,
+table.recur-cal td.ev.we.dra {
+	background-color: #00B000;
+}
+
+/* published events */
+table.recur-cal td.pub,
+table.recur-cal td.pa.pub {
+	background-color: #20C1F0;
+}
+table.recur-cal td.ev.pub,
+table.recur-cal td.pa.ev.pub,
+table.recur-cal td.pa.we.pub,
+table.recur-cal td.we.pub {
+	background-color: #10B1E0;
+}
+table.recur-cal td.pa.ev.we.pub,
+table.recur-cal td.ev.we.pub {
+	background-color: #10A1D0;
+}
+
+/* cancelled events */
+table.recur-cal td.can {
+	text-decoration: line-through;
+}
+table.recur-cal td.can,
+table.recur-cal td.pa.can {
+	background-color: #FF4040;
+}
+table.recur-cal td.ev.can,
+table.recur-cal td.pa.ev.can,
+table.recur-cal td.pa.we.can,
+table.recur-cal td.we.can {
+	background-color: #EE3838;
+}
+table.recur-cal td.pa.ev.we.can,
+table.recur-cal td.ev.we.can {
+	background-color: #EE3030;
+}
+
+/* currrently selected date */
+table.recur-cal td.cur {
+	border: 2px solid #000000;
+}
+
+/* for include exclude dates */
+div#eved_inex_list div.description {
+	float: left;
+	font-size: small;
+	clear: none;
+}
+div#eved_inex_list fieldset.delete {
+	float: right;
+	clear: none;
+}
+div#eved_inex_list div.none,
+div#eved_inex_list div.include,
+div#eved_inex_list div.exclude {
+	border: 1px solid #808080;
+	overflow: hidden;
+	padding-left: 3px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+}
+div#eved_inex_list div.none {
+	background-color: #F0F0F0;
+}
+div#eved_inex_list div.include {
+	background-color: #58D090;
+}
+div#eved_inex_list div.exclude {
+	background-color: #F0D1A0;
+}
+
+/* for confirmation of changes dates */
+div#confirm_changes_div label.description {
+	float: none;
+	font-size: small;
+	clear: none;
+	text-align: left;
+	width: 100%;
+	margin: 0.0em;
+}
+div#confirm_changes_div div.description {
+	font-size: small;
+	clear: none;
+}
+div#confirm_changes_div fieldset.delete {
+	float: right;
+	clear: none;
+}
+div#confirm_changes_div div.cancel,
+div#confirm_changes_div div.delete,
+div#confirm_changes_div div.restore,
+div#confirm_changes_div div.create,
+div#confirm_changes_div div.move,
+div#confirm_changes_div div.draft {
+	border: 1px solid #808080;
+	overflow: hidden;
+	padding-left: 3px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+}
+div#confirm_changes_div div.cancel {
+	background-color: #FFB0B0;
+}
+div#confirm_changes_div div.delete {
+	background-color: #FFC080;
+}
+div#confirm_changes_div div.restore {
+	background-color: #B0B0FF;
+}
+div#confirm_changes_div div.create {
+	background-color: #80FF80;
+}
+div#confirm_changes_div div.move {
+	background-color: #FFFF80;
+}
+div#confirm_changes_div div.draft {
+	background-color: #F0F0F0;
+}
